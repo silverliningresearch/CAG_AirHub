@@ -1,0 +1,20 @@
+api.fn.answers({urlVar20:   currentFlight.Airline});
+api.fn.answers({urlVar19:   currentFlight.Flight});
+api.fn.answers({urlVar18:   currentFlight.Dest});
+if (currentFlight.Via &&    currentFlight.Via!=""){
+api.fn.answers({urlVar17:   currentFlight.Via});
+
+Airline_ext_search
+FlightNo_ext_search
+Dest_ext_search
+Via_ext_search
+-----------------------
+
+text: 
+Q6: 
+
+What is your flight number today?
+
+Look at your boarding pass - Relevant is the flight number of your departing flight. Example: LH1234
+
+Interviewer note: The flight number has to be identical with the flight number shown on the screens of boarding gate.

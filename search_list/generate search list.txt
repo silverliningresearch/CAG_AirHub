@@ -1,0 +1,34 @@
+
+-----------BER
+="{"&CHAR(34)&"Date"&CHAR(34)&": "&CHAR(34)&L2&CHAR(34)&", "&CHAR(34)&"Show"&CHAR(34)&": "&CHAR(34)&K2&CHAR(34)&", "&CHAR(34)&"Airport_code"&CHAR(34)&": "&CHAR(34)&E2&CHAR(34)&", "&CHAR(34)&"Airport_name"&CHAR(34)&": "&CHAR(34)&F2&CHAR(34) &", "&CHAR(34)&"Airline"&CHAR(34)&": "&CHAR(34)&B2&CHAR(34)  &", "&CHAR(34) & "Flight"&CHAR(34)&": "&CHAR(34) & C2 &CHAR(34)& "},"
+
+---CAG
+Time
+=left(Z2,2) & ":" & right(Z2,2)
+
+Flight list
+="{"&CHAR(34)&"Date"&CHAR(34)&": "&CHAR(34) & Y2 &CHAR(34)&", "&CHAR(34)&"Time"&CHAR(34)&": "&CHAR(34)&Z2&CHAR(34)&", "&CHAR(34)&"Dest"&CHAR(34)&": "&CHAR(34)& P2 &CHAR(34)&", "&CHAR(34)&"Next"&CHAR(34)&": "&CHAR(34)&O2&CHAR(34)  & ", " & CHAR(34) & "DTerm"&CHAR(34)&": "&CHAR(34) & T2 &CHAR(34)& ", " & CHAR(34) & "Flight"&CHAR(34) & ": " & CHAR(34) & E2 & CHAR(34) & ", " & CHAR(34) & "AirlineCode"&CHAR(34) & ": " & CHAR(34) & D2 & CHAR(34) & ", " & CHAR(34) & "Airline"&CHAR(34) & ": " & CHAR(34) & AB2 & CHAR(34) & ", " & CHAR(34) & "Show" & CHAR(34) & ": " & CHAR(34) & D2 & " " & E2  & " ("  & AA2 & " - " & O2 &  ")"  & CHAR(34) & "},"
+
+City
+="{"&CHAR(34)&"Country"&CHAR(34)&": "&CHAR(34) & E2801 &CHAR(34)&", " &CHAR(34)&"City"&CHAR(34)&": "&CHAR(34)&A2801&CHAR(34)  &", " &CHAR(34) &"City_ascii"&CHAR(34)&": "&CHAR(34)&B2801&CHAR(34)  & "},"
+
+      {"Country": "Indonesia", "City": "Batam", "City_ascii": "Batam"},
+      {"Country": "Indonesia", "City": "Bintan", "City_ascii": "Bintan"}
+
+
+Airline {{custom.Airline}}
+
+***Airline is (full) airline name. This is also a custom variable, value updated by search engine.
+
+B8==1 ? B8_Recoded=Airline: B8_Recoded=B8_2_text
+C12==1 ? C12_Recoded=Airline: C12_Recoded=C12_2_text
+D8==1 ? D8_Recoded=Airline: D8_Recoded=D8_2_text
+D12==1 ? D12_Recoded=Airline: D12_Recoded=D12_2_text
+E9==1 ? E9_Recoded=Airline: E9_Recoded=E9_2_text
+
+B8, C12, D8, D12, E9
+********************************
+B: Outbout (A2-resindent = Singapore or E1 - begin your air travel to your destination = Singapore) 
+C: catchment (A2-resindent = JOHOR/BATAM/BINTAN - OR - A3-Other mode of transportation)
+D: Transiting  (A2-resindent = JOHOR/BATAM/BINTAN)
+E: Inbound (A4 = I have visited Singapore and am returning home )
