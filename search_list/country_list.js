@@ -32,7 +32,6 @@ let countryRawList = `
   {"country_code": "BV", "country_name": "Bouvet Island"}, 
   {"country_code": "BR", "country_name": "Brazil"}, 
   {"country_code": "IO", "country_name": "British Indian Ocean Territory"}, 
-  {"country_code": "BN", "country_name": "Brunei Darussalam"}, 
   {"country_code": "BN", "country_name": "Brunei"}, 
   {"country_code": "BG", "country_name": "Bulgaria"}, 
   {"country_code": "BF", "country_name": "Burkina Faso"}, 
