@@ -17,6 +17,21 @@ function getToDate() {
   return [day, month,year].join('-');
 }
 
+function getTomorrow() {
+  var d = new Date();
+      
+  month = '' + (d.getMonth() + 1),
+  day = '' + d.getDate()+1,
+  year = d.getFullYear();
+
+  if (month.length < 2) 
+      month = '0' + month;
+  if (day.length < 2) 
+      day = '0' + day;
+
+  return [day, month,year].join('-');
+}
+
 function flight_in_list_found(list, item) {
   item = item.toLowerCase();
   
@@ -39,7 +54,7 @@ function load_flight_list() {
   flightList = [];
   flightList.length = 0;
   for (i = 0; i < flightRawList.length; i++) {
-    if(flightRawList[i].Date == getToDate())
+    if(flightRawList[i].Date == getToDate() || (flightRawList[i].Date == getTomorrow()) )
     {
       var Date = '"Date"' + ":" + '"' +  flightRawList[i].Date + '", ';
       var Time = '"Time"' + ":" + '"' +  flightRawList[i].Time + '", ';
@@ -88,7 +103,8 @@ function update_drop_box_list() {
     var dTerminal = api.fn.answers().Terminal;
 
     //if ((today == flight.Date) && (dTerminal == flight.DTerm))
-    if (today == flight.Date)
+    //if (today == flight.Date)
+    if(flight.Date == getToDate() || (flight.Date == getTomorrow()) )
     { 
       if (flight.Show.toLowerCase().includes(input)) {
         const elem = document.createElement("option");
