@@ -2,7 +2,7 @@
 [
     {
         "Airport_Airline": "ADD - ET",
-        "Quota": 4
+        "Quota": 3
     },
     {
         "Airport_Airline": "ADL - SQ",
@@ -22,7 +22,7 @@
     },
     {
         "Airport_Airline": "AMS - KL",
-        "Quota": 10
+        "Quota": 9
     },
     {
         "Airport_Airline": "AMS - SQ",
@@ -30,15 +30,15 @@
     },
     {
         "Airport_Airline": "ATH - TR",
-        "Quota": 5
+        "Quota": 4
     },
     {
         "Airport_Airline": "ATQ - TR",
-        "Quota": 6
+        "Quota": 5
     },
     {
         "Airport_Airline": "AUH - EY",
-        "Quota": 8
+        "Quota": 7
     },
     {
         "Airport_Airline": "BAH - GF",
@@ -62,7 +62,7 @@
     },
     {
         "Airport_Airline": "BKI - AK",
-        "Quota": 7
+        "Quota": 8
     },
     {
         "Airport_Airline": "BKI - TR",
@@ -70,7 +70,7 @@
     },
     {
         "Airport_Airline": "BKK - 3K",
-        "Quota": 10
+        "Quota": 9
     },
     {
         "Airport_Airline": "BKK - GF",
@@ -78,27 +78,35 @@
     },
     {
         "Airport_Airline": "BKK - SQ",
-        "Quota": 38
+        "Quota": 36
     },
     {
         "Airport_Airline": "BKK - TG",
-        "Quota": 23
+        "Quota": 22
     },
     {
         "Airport_Airline": "BKK - TR",
-        "Quota": 37
+        "Quota": 36
     },
     {
         "Airport_Airline": "BKK - VZ",
-        "Quota": 4
+        "Quota": 8
     },
     {
         "Airport_Airline": "BLR - 6E",
         "Quota": 4
     },
     {
+        "Airport_Airline": "BLR - G8",
+        "Quota": 4
+    },
+    {
+        "Airport_Airline": "BLR - IX",
+        "Quota": 2
+    },
+    {
         "Airport_Airline": "BLR - SQ",
-        "Quota": 13
+        "Quota": 12
     },
     {
         "Airport_Airline": "BNE - QF",
@@ -106,7 +114,7 @@
     },
     {
         "Airport_Airline": "BNE - SQ",
-        "Quota": 21
+        "Quota": 20
     },
     {
         "Airport_Airline": "BOM - 6E",
@@ -118,7 +126,7 @@
     },
     {
         "Airport_Airline": "BOM - SQ",
-        "Quota": 20
+        "Quota": 19
     },
     {
         "Airport_Airline": "BOM - UK",
@@ -134,11 +142,11 @@
     },
     {
         "Airport_Airline": "BWN - SQ",
-        "Quota": 3
+        "Quota": 2
     },
     {
         "Airport_Airline": "CAN - CZ",
-        "Quota": 9
+        "Quota": 16
     },
     {
         "Airport_Airline": "CAN - SQ",
@@ -146,7 +154,7 @@
     },
     {
         "Airport_Airline": "CAN - TR",
-        "Quota": 4
+        "Quota": 13
     },
     {
         "Airport_Airline": "CCU - 6E",
@@ -158,11 +166,11 @@
     },
     {
         "Airport_Airline": "CDG - AF",
-        "Quota": 10
+        "Quota": 9
     },
     {
         "Airport_Airline": "CDG - SQ",
-        "Quota": 9
+        "Quota": 8
     },
     {
         "Airport_Airline": "CEB - 5J",
@@ -170,7 +178,7 @@
     },
     {
         "Airport_Airline": "CEB - SQ",
-        "Quota": 4
+        "Quota": 3
     },
     {
         "Airport_Airline": "CEB - TR",
@@ -182,11 +190,11 @@
     },
     {
         "Airport_Airline": "CGK - GA",
-        "Quota": 33
+        "Quota": 32
     },
     {
         "Airport_Airline": "CGK - ID",
-        "Quota": 19
+        "Quota": 18
     },
     {
         "Airport_Airline": "CGK - KL",
@@ -198,19 +206,19 @@
     },
     {
         "Airport_Airline": "CGK - QZ",
-        "Quota": 25
+        "Quota": 24
     },
     {
         "Airport_Airline": "CGK - SQ",
-        "Quota": 57
+        "Quota": 55
     },
     {
         "Airport_Airline": "CGK - TR",
-        "Quota": 15
+        "Quota": 14
     },
     {
         "Airport_Airline": "CGO - TR",
-        "Quota": 2
+        "Quota": 3
     },
     {
         "Airport_Airline": "CHC - SQ",
@@ -230,7 +238,7 @@
     },
     {
         "Airport_Airline": "CKG - SQ",
-        "Quota": 6
+        "Quota": 5
     },
     {
         "Airport_Airline": "CMB - SQ",
@@ -242,7 +250,7 @@
     },
     {
         "Airport_Airline": "CNS - SQ",
-        "Quota": 2
+        "Quota": 1
     },
     {
         "Airport_Airline": "CNX - FD",
@@ -254,7 +262,7 @@
     },
     {
         "Airport_Airline": "COK - SQ",
-        "Quota": 7
+        "Quota": 5
     },
     {
         "Airport_Airline": "CPH - SQ",
@@ -270,7 +278,7 @@
     },
     {
         "Airport_Airline": "CRK - 5J",
-        "Quota": 0
+        "Quota": 4
     },
     {
         "Airport_Airline": "CRK - TR",
@@ -278,7 +286,7 @@
     },
     {
         "Airport_Airline": "CTS - TR",
-        "Quota": 5
+        "Quota": 4
     },
     {
         "Airport_Airline": "CTU - SQ",
@@ -298,7 +306,7 @@
     },
     {
         "Airport_Airline": "DAD - SQ",
-        "Quota": 4
+        "Quota": 3
     },
     {
         "Airport_Airline": "DAD - VJ",
@@ -310,11 +318,11 @@
     },
     {
         "Airport_Airline": "DEL - AI",
-        "Quota": 10
+        "Quota": 9
     },
     {
         "Airport_Airline": "DEL - SQ",
-        "Quota": 19
+        "Quota": 18
     },
     {
         "Airport_Airline": "DEL - UK",
@@ -322,19 +330,19 @@
     },
     {
         "Airport_Airline": "DIL - KB",
-        "Quota": 0
+        "Quota": 1
     },
     {
         "Airport_Airline": "DMK - FD",
-        "Quota": 25
+        "Quota": 24
     },
     {
         "Airport_Airline": "DMK - SL",
-        "Quota": 9
+        "Quota": 8
     },
     {
         "Airport_Airline": "DOH - QR",
-        "Quota": 21
+        "Quota": 22
     },
     {
         "Airport_Airline": "DPS - 3K",
@@ -346,27 +354,27 @@
     },
     {
         "Airport_Airline": "DPS - KL",
-        "Quota": 7
+        "Quota": 6
     },
     {
         "Airport_Airline": "DPS - QZ",
-        "Quota": 25
+        "Quota": 24
     },
     {
         "Airport_Airline": "DPS - SQ",
-        "Quota": 39
+        "Quota": 37
     },
     {
         "Airport_Airline": "DPS - TR",
-        "Quota": 23
+        "Quota": 22
     },
     {
         "Airport_Airline": "DRW - SQ",
-        "Quota": 2
+        "Quota": 1
     },
     {
         "Airport_Airline": "DVO - 5J",
-        "Quota": 3
+        "Quota": 2
     },
     {
         "Airport_Airline": "DVO - TR",
@@ -374,7 +382,7 @@
     },
     {
         "Airport_Airline": "DXB - EK",
-        "Quota": 32
+        "Quota": 31
     },
     {
         "Airport_Airline": "DXB - SQ",
@@ -410,7 +418,7 @@
     },
     {
         "Airport_Airline": "HAK - 3K",
-        "Quota": 1
+        "Quota": 2
     },
     {
         "Airport_Airline": "HAK - HU",
@@ -418,7 +426,7 @@
     },
     {
         "Airport_Airline": "HAK - TR",
-        "Quota": 2
+        "Quota": 3
     },
     {
         "Airport_Airline": "HAN - QH",
@@ -426,7 +434,7 @@
     },
     {
         "Airport_Airline": "HAN - SQ",
-        "Quota": 12
+        "Quota": 11
     },
     {
         "Airport_Airline": "HAN - TR",
@@ -438,7 +446,7 @@
     },
     {
         "Airport_Airline": "HAN - VN",
-        "Quota": 9
+        "Quota": 8
     },
     {
         "Airport_Airline": "HDY - TR",
@@ -450,19 +458,19 @@
     },
     {
         "Airport_Airline": "HGH - TR",
-        "Quota": 6
+        "Quota": 8
     },
     {
         "Airport_Airline": "HKG - CX",
-        "Quota": 28
+        "Quota": 32
     },
     {
         "Airport_Airline": "HKG - SQ",
-        "Quota": 24
+        "Quota": 23
     },
     {
         "Airport_Airline": "HKG - TR",
-        "Quota": 9
+        "Quota": 8
     },
     {
         "Airport_Airline": "HKG - UO",
@@ -478,11 +486,11 @@
     },
     {
         "Airport_Airline": "HKT - SQ",
-        "Quota": 15
+        "Quota": 14
     },
     {
         "Airport_Airline": "HKT - TR",
-        "Quota": 11
+        "Quota": 10
     },
     {
         "Airport_Airline": "HND - JL",
@@ -494,7 +502,7 @@
     },
     {
         "Airport_Airline": "HND - SQ",
-        "Quota": 12
+        "Quota": 13
     },
     {
         "Airport_Airline": "HPH - VJ",
@@ -502,7 +510,7 @@
     },
     {
         "Airport_Airline": "HYD - SQ",
-        "Quota": 6
+        "Quota": 5
     },
     {
         "Airport_Airline": "HYD - TR",
@@ -510,19 +518,19 @@
     },
     {
         "Airport_Airline": "IAH - SQ",
-        "Quota": 2
+        "Quota": 3
     },
     {
         "Airport_Airline": "ICN - KE",
-        "Quota": 21
+        "Quota": 20
     },
     {
         "Airport_Airline": "ICN - OZ",
-        "Quota": 14
+        "Quota": 13
     },
     {
         "Airport_Airline": "ICN - SQ",
-        "Quota": 22
+        "Quota": 26
     },
     {
         "Airport_Airline": "ICN - TR",
@@ -538,7 +546,7 @@
     },
     {
         "Airport_Airline": "IPH - TR",
-        "Quota": 11
+        "Quota": 10
     },
     {
         "Airport_Airline": "IST - SQ",
@@ -558,11 +566,11 @@
     },
     {
         "Airport_Airline": "JED - TR",
-        "Quota": 4
+        "Quota": 3
     },
     {
         "Airport_Airline": "JFK - SQ",
-        "Quota": 15
+        "Quota": 12
     },
     {
         "Airport_Airline": "KBV - TR",
@@ -581,16 +589,20 @@
         "Quota": 4
     },
     {
+        "Airport_Airline": "KHN - TR",
+        "Quota": 2
+    },
+    {
         "Airport_Airline": "KIX - SQ",
-        "Quota": 12
+        "Quota": 15
     },
     {
         "Airport_Airline": "KIX - TR",
-        "Quota": 8
+        "Quota": 7
     },
     {
         "Airport_Airline": "KMG - MU",
-        "Quota": 1
+        "Quota": 3
     },
     {
         "Airport_Airline": "KNO - 3K",
@@ -606,7 +618,7 @@
     },
     {
         "Airport_Airline": "KTM - SQ",
-        "Quota": 4
+        "Quota": 3
     },
     {
         "Airport_Airline": "KUA - TR",
@@ -618,31 +630,31 @@
     },
     {
         "Airport_Airline": "KUL - AK",
-        "Quota": 50
+        "Quota": 48
     },
     {
         "Airport_Airline": "KUL - ET",
-        "Quota": 4
+        "Quota": 3
     },
     {
         "Airport_Airline": "KUL - MH",
-        "Quota": 36
+        "Quota": 35
     },
     {
         "Airport_Airline": "KUL - OD",
-        "Quota": 17
+        "Quota": 16
     },
     {
         "Airport_Airline": "KUL - SQ",
-        "Quota": 36
+        "Quota": 35
     },
     {
         "Airport_Airline": "KUL - TR",
-        "Quota": 17
+        "Quota": 16
     },
     {
         "Airport_Airline": "LAX - SQ",
-        "Quota": 15
+        "Quota": 14
     },
     {
         "Airport_Airline": "LGK - AK",
@@ -654,7 +666,7 @@
     },
     {
         "Airport_Airline": "LHR - BA",
-        "Quota": 12
+        "Quota": 11
     },
     {
         "Airport_Airline": "LHR - QF",
@@ -662,11 +674,11 @@
     },
     {
         "Airport_Airline": "LHR - SQ",
-        "Quota": 34
+        "Quota": 33
     },
     {
         "Airport_Airline": "LHW - GX",
-        "Quota": 1
+        "Quota": 3
     },
     {
         "Airport_Airline": "LOP - TR",
@@ -674,7 +686,7 @@
     },
     {
         "Airport_Airline": "MAA - 6E",
-        "Quota": 10
+        "Quota": 9
     },
     {
         "Airport_Airline": "MAA - AI",
@@ -682,11 +694,11 @@
     },
     {
         "Airport_Airline": "MAA - IX",
-        "Quota": 2
+        "Quota": 4
     },
     {
         "Airport_Airline": "MAA - SQ",
-        "Quota": 14
+        "Quota": 11
     },
     {
         "Airport_Airline": "MAN - SQ",
@@ -702,7 +714,7 @@
     },
     {
         "Airport_Airline": "MEL - JQ",
-        "Quota": 7
+        "Quota": 6
     },
     {
         "Airport_Airline": "MEL - QF",
@@ -710,11 +722,11 @@
     },
     {
         "Airport_Airline": "MEL - SQ",
-        "Quota": 25
+        "Quota": 27
     },
     {
         "Airport_Airline": "MEL - TR",
-        "Quota": 15
+        "Quota": 14
     },
     {
         "Airport_Airline": "MFM - NX",
@@ -726,7 +738,7 @@
     },
     {
         "Airport_Airline": "MLE - SQ",
-        "Quota": 11
+        "Quota": 10
     },
     {
         "Airport_Airline": "MNL - 3K",
@@ -734,15 +746,15 @@
     },
     {
         "Airport_Airline": "MNL - 5J",
-        "Quota": 15
+        "Quota": 19
     },
     {
         "Airport_Airline": "MNL - PR",
-        "Quota": 22
+        "Quota": 21
     },
     {
         "Airport_Airline": "MNL - SQ",
-        "Quota": 29
+        "Quota": 28
     },
     {
         "Airport_Airline": "MNL - TR",
@@ -750,7 +762,7 @@
     },
     {
         "Airport_Airline": "MUC - LH",
-        "Quota": 6
+        "Quota": 5
     },
     {
         "Airport_Airline": "MUC - SQ",
@@ -782,7 +794,15 @@
     },
     {
         "Airport_Airline": "NKG - TR",
-        "Quota": 9
+        "Quota": 12
+    },
+    {
+        "Airport_Airline": "NNG - 9C",
+        "Quota": 4
+    },
+    {
+        "Airport_Airline": "NNG - TR",
+        "Quota": 2
     },
     {
         "Airport_Airline": "NOU - SB",
@@ -790,7 +810,7 @@
     },
     {
         "Airport_Airline": "NRT - JL",
-        "Quota": 5
+        "Quota": 4
     },
     {
         "Airport_Airline": "NRT - NH",
@@ -798,7 +818,7 @@
     },
     {
         "Airport_Airline": "NRT - NQ",
-        "Quota": 6
+        "Quota": 5
     },
     {
         "Airport_Airline": "NRT - SQ",
@@ -810,7 +830,7 @@
     },
     {
         "Airport_Airline": "NRT - ZG",
-        "Quota": 7
+        "Quota": 6
     },
     {
         "Airport_Airline": "OOL - TR",
@@ -822,11 +842,11 @@
     },
     {
         "Airport_Airline": "PEK - CA",
-        "Quota": 10
+        "Quota": 13
     },
     {
         "Airport_Airline": "PEK - SQ",
-        "Quota": 21
+        "Quota": 20
     },
     {
         "Airport_Airline": "PEN - 3K",
@@ -834,11 +854,11 @@
     },
     {
         "Airport_Airline": "PEN - AK",
-        "Quota": 22
+        "Quota": 21
     },
     {
         "Airport_Airline": "PEN - FY",
-        "Quota": 9
+        "Quota": 8
     },
     {
         "Airport_Airline": "PEN - SQ",
@@ -874,11 +894,11 @@
     },
     {
         "Airport_Airline": "PNH - KR",
-        "Quota": 2
+        "Quota": 4
     },
     {
         "Airport_Airline": "PNH - SQ",
-        "Quota": 9
+        "Quota": 10
     },
     {
         "Airport_Airline": "PNQ - UK",
@@ -894,27 +914,27 @@
     },
     {
         "Airport_Airline": "PVG - 9C",
-        "Quota": 3
+        "Quota": 4
     },
     {
         "Airport_Airline": "PVG - CA",
-        "Quota": 3
+        "Quota": 4
     },
     {
         "Airport_Airline": "PVG - HO",
-        "Quota": 8
-    },
-    {
-        "Airport_Airline": "PVG - MU",
         "Quota": 14
     },
     {
+        "Airport_Airline": "PVG - MU",
+        "Quota": 13
+    },
+    {
         "Airport_Airline": "PVG - SQ",
-        "Quota": 35
+        "Quota": 34
     },
     {
         "Airport_Airline": "REP - SQ",
-        "Quota": 4
+        "Quota": 3
     },
     {
         "Airport_Airline": "RGN - 3K",
@@ -926,11 +946,11 @@
     },
     {
         "Airport_Airline": "RGN - SQ",
-        "Quota": 5
+        "Quota": 3
     },
     {
         "Airport_Airline": "RGN - UB",
-        "Quota": 4
+        "Quota": 5
     },
     {
         "Airport_Airline": "SBW - AK",
@@ -938,19 +958,19 @@
     },
     {
         "Airport_Airline": "SEA - SQ",
-        "Quota": 3
+        "Quota": 2
     },
     {
         "Airport_Airline": "SFO - SQ",
-        "Quota": 10
+        "Quota": 9
     },
     {
         "Airport_Airline": "SFO - UA",
-        "Quota": 12
+        "Quota": 11
     },
     {
         "Airport_Airline": "SGN - 3K",
-        "Quota": 13
+        "Quota": 12
     },
     {
         "Airport_Airline": "SGN - BL",
@@ -962,23 +982,27 @@
     },
     {
         "Airport_Airline": "SGN - SQ",
-        "Quota": 17
+        "Quota": 14
     },
     {
         "Airport_Airline": "SGN - TR",
-        "Quota": 13
+        "Quota": 12
     },
     {
         "Airport_Airline": "SGN - VJ",
-        "Quota": 11
+        "Quota": 10
     },
     {
         "Airport_Airline": "SGN - VN",
-        "Quota": 13
+        "Quota": 12
+    },
+    {
+        "Airport_Airline": "SHE - TR",
+        "Quota": 6
     },
     {
         "Airport_Airline": "SJW - NS",
-        "Quota": 0
+        "Quota": 4
     },
     {
         "Airport_Airline": "SRG - TR",
@@ -1018,19 +1042,19 @@
     },
     {
         "Airport_Airline": "SYD - QF",
-        "Quota": 18
+        "Quota": 17
     },
     {
         "Airport_Airline": "SYD - SQ",
-        "Quota": 30
+        "Quota": 31
     },
     {
         "Airport_Airline": "SYD - TR",
-        "Quota": 13
+        "Quota": 12
     },
     {
         "Airport_Airline": "SZX - SQ",
-        "Quota": 10
+        "Quota": 9
     },
     {
         "Airport_Airline": "SZX - ZH",
@@ -1038,7 +1062,7 @@
     },
     {
         "Airport_Airline": "TAO - TR",
-        "Quota": 5
+        "Quota": 8
     },
     {
         "Airport_Airline": "TFU - 3U",
@@ -1053,8 +1077,12 @@
         "Quota": 6
     },
     {
+        "Airport_Airline": "TNA - TR",
+        "Quota": 2
+    },
+    {
         "Airport_Airline": "TPE - BR",
-        "Quota": 16
+        "Quota": 15
     },
     {
         "Airport_Airline": "TPE - CI",
@@ -1070,11 +1098,11 @@
     },
     {
         "Airport_Airline": "TPE - TR",
-        "Quota": 4
+        "Quota": 3
     },
     {
         "Airport_Airline": "TRV - TR",
-        "Quota": 5
+        "Quota": 4
     },
     {
         "Airport_Airline": "TRZ - 6E",
@@ -1090,7 +1118,7 @@
     },
     {
         "Airport_Airline": "TSN - TR",
-        "Quota": 5
+        "Quota": 8
     },
     {
         "Airport_Airline": "UPG - ID",
@@ -1102,7 +1130,7 @@
     },
     {
         "Airport_Airline": "USM - PG",
-        "Quota": 6
+        "Quota": 5
     },
     {
         "Airport_Airline": "VTE - TR",
@@ -1110,7 +1138,7 @@
     },
     {
         "Airport_Airline": "VTZ - TR",
-        "Quota": 2
+        "Quota": 3
     },
     {
         "Airport_Airline": "XIY - MU",
@@ -1118,7 +1146,7 @@
     },
     {
         "Airport_Airline": "XIY - TR",
-        "Quota": 2
+        "Quota": 4
     },
     {
         "Airport_Airline": "XMN - MF",
@@ -1126,7 +1154,7 @@
     },
     {
         "Airport_Airline": "XMN - SQ",
-        "Quota": 7
+        "Quota": 6
     },
     {
         "Airport_Airline": "YIA - ID",
@@ -1142,7 +1170,7 @@
     },
     {
         "Airport_Airline": "YVR - SQ",
-        "Quota": 3
+        "Quota": 2
     },
     {
         "Airport_Airline": "ZRH - LX",
