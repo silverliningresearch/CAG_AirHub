@@ -74,7 +74,7 @@ function load_flight_list() {
     var flight = flightRawList[i];
 
     if(((flight.Date == getToDate())  && (notDeparted_flight_search(flight.Time)))
-    || ((flight.Date == getTomorrow()) && (parseInt(flight.Time)<200)) //next date, only first 2 hours
+    || ((flight.Date == getTomorrow()) && (parseInt(flight.Time)<300)) //next date, only first 3 hours
       )
     {
       var Date = '"Date"' + ":" + '"' +  flightRawList[i].Date + '", ';
@@ -136,7 +136,7 @@ function update_drop_box_list() {
       }
     }
     
-    if (count > 30) {
+    if (count > 7) {
       break;
     }
   }
