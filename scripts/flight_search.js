@@ -5,9 +5,9 @@ var flightShortList = [];
 function getToDate() {
   var d = new Date();
       
-  month = '' + (d.getMonth() + 1),
-  day = '' + d.getDate(),
-  year = d.getFullYear();
+  var month =  '' + (d.getMonth() + 1);
+  var day = '' + d.getDate();
+  var year = d.getFullYear();
 
   if (month.length < 2) 
       month = '0' + month;
@@ -20,16 +20,16 @@ function getToDate() {
 function getTomorrow() {
   var d = new Date();
       
-  month = '' + (d.getMonth() + 1),
-  day = '' + d.getDate()+1,
-  year = d.getFullYear();
+  var month = ''+ (d.getMonth() + 1);
+  var day = '' + (d.getDate()+1);
+  var year = d.getFullYear();
 
   if (month.length < 2) 
       month = '0' + month;
   if (day.length < 2) 
       day = '0' + day;
 
-  return [day, month,year].join('-');
+  return [day, month, year].join('-');
 }
 
 function flight_in_list_found(list, item) {
@@ -49,12 +49,33 @@ function flight_in_list_found(list, item) {
   return false;
 }
 
+function notDeparted_flight_search(flight_time) {
+  var current_time = new Date().toLocaleString('en-SG', { timeZone: 'Asia/Singapore', hour12: false});
+  //15:13:27
+  var current_time_value  = current_time.substring(current_time.length-8,current_time.length-6) * 60;
+  current_time_value += current_time.substring(current_time.length-5,current_time.length-3)*1;
+
+  //Time: 0805    
+  var flight_time_value = flight_time.substring(0,2) * 60 + flight_time.substring(2,4)*1;
+  
+  //plus  2 hour
+  flight_time_value = flight_time_value + 120;
+
+  var result = (flight_time_value > current_time_value);
+  return (result);
+}
+
 function load_flight_list() {
   flightRawList = JSON.parse(cagAirHubFlightRawList);
   flightList = [];
   flightList.length = 0;
+  
   for (i = 0; i < flightRawList.length; i++) {
-    if(flightRawList[i].Date == getToDate() || (flightRawList[i].Date == getTomorrow()) )
+    var flight = flightRawList[i];
+
+    if(((flight.Date == getToDate())  && (notDeparted_flight_search(flight.Time)))
+    || ((flight.Date == getTomorrow()) && (parseInt(flight.Time)<200)) //next date, only first 2 hours
+      )
     {
       var Date = '"Date"' + ":" + '"' +  flightRawList[i].Date + '", ';
       var Time = '"Time"' + ":" + '"' +  flightRawList[i].Time + '", ';

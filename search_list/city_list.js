@@ -11036,6 +11036,8 @@ let cityRawList = `
   {"co": "Czechia", "city": "Bechyne"}, 
   {"co": "Czechia", "city": "As"}, 
   {"co": "Czechia", "city": "Cerny Most"}, 
+  {"co": "Germany", "city": "Cologne"}, 
+  {"co": "Germany", "city": "Dusseldorf"}, 
   {"co": "Germany", "city": "Zwoenitz"}, 
   {"co": "Germany", "city": "Zwingenberg"}, 
   {"co": "Germany", "city": "Zwiesel"}, 
