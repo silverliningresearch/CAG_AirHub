@@ -191,7 +191,7 @@ function show_flight_search_box() {
   $('.rt-element.rt-text-container').append(`<input list="flightDropBoxList" onchange="select_flight()"  onkeyup="update_drop_box_list()" name="inputFlightCodeID" id="inputFlightCodeID" >
   <datalist id="flightDropBoxList"> </datalist>`); */
 
-  $('.rt-element.rt-text-container').append(`<input list="flightDropBoxList" onchange="select_flight()"  onkeyup="update_drop_box_list()" name="inputFlightCodeID" id="inputFlightCodeID" >
+  $('.rt-element.rt-text-container').append(`<input type="text" autocomplete="off" list="flightDropBoxList" onchange="select_flight()"  onkeyup="update_drop_box_list()" name="inputFlightCodeID" id="inputFlightCodeID">
   <datalist id="flightDropBoxList"> </datalist>`);
  
 

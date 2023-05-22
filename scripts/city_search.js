@@ -261,7 +261,7 @@ function show_city_search_box(cityQuestion) {
   cityCurrentQuestion = cityQuestion;
   load_city_list();
 
-  $('.rt-element.rt-text-container').append(`<input list="cityDropBoxList" onchange="select_city()"  onkeyup="update_drop_box_city_list()" name="inputcityCodeID" id="inputcityCodeID" >
+  $('.rt-element.rt-text-container').append(`<input type="text" autocomplete="off" list="cityDropBoxList" onchange="select_city()"  onkeyup="update_drop_box_city_list()" name="inputcityCodeID" id="inputcityCodeID" >
   <datalist id="cityDropBoxList"> </datalist>`);
 
   document.getElementById('inputcityCodeID').value = "";
