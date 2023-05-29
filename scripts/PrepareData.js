@@ -47,26 +47,32 @@ function initCurrentTimeVars() {
   nextDate  = [tomorrowDay, tomorrowMonth, tomorrowYear].join('-');
 
   //return [day, month,year].join('-');
+  if (document.getElementById('year_month') && document.getElementById('year_month').value.length > 0)
+  {
+    if (document.getElementById('year_month').value != "current-month")
+    {
+      currentMonth = document.getElementById('year_month').value;
+    }
+  }
+  console.log("currentMonth: ", currentMonth);  
 }
 
 function isCurrentMonth(interviewEndDate)
 {
-// Input:  "2023-04-01 09:03:06",
+// Input: "2023-04-03 10:06:22 GMT"
   var interviewDateParsed = interviewEndDate.split("-")
-  var interviewYear = parseInt(interviewDateParsed[0]);
-  var interviewMonth = parseInt(interviewDateParsed[1]);
 
+  var interviewYear = (interviewDateParsed[0]);
+  var interviewMonth =(interviewDateParsed[1]);
+  
   var result = false;
 
-  var d = new Date();
-  month = (d.getMonth() + 1); //month start from 0; 
-  year = d.getFullYear();
-  
-  if ((month == interviewMonth) && (year==interviewYear))
+  if ( currentMonth ==[interviewMonth,interviewYear].join('-'))
   {
     result = true;
   }
-  return result;
+
+   return result;
 }
 
 function notDeparted(flight_time) {
@@ -96,13 +102,25 @@ function isvalid_id(id)
   return valid;
 }
 function prepareInterviewData() {
-  quota_data = JSON.parse(airport_airline_quota);
+  var quota_data_temp = JSON.parse(airport_airline_quota);
   removed_ids_data = JSON.parse(removed_ids);
 
   var interview_data_temp  = JSON.parse(interview_data_raw);
   var flight_list_temp  = JSON.parse(cagAirHubFlightRawList);
 
-  initCurrentTimeVars();						
+  initCurrentTimeVars();			
+  
+  //get quota data
+  quota_data = [];
+  quota_data.length = 0;
+  for (i = 0; i < quota_data_temp.length; i++) {
+    var quota_month =  quota_data_temp[i].Month + "-"  + quota_data_temp[i].Year; 
+    if ((quota_month== currentMonth) && (quota_data_temp[i].Quota>0))
+    {
+      quota_data.push(quota_data_temp[i]);
+    }
+  }
+
   //get relevant interview data
   //empty the list
   interview_data = [];
