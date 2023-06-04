@@ -74,7 +74,8 @@ function load_flight_list() {
     var flight = flightRawList[i];
 
     if(((flight.Date == getToDate())  && (notDeparted_flight_search(flight.Time)))
-    || ((flight.Date == getTomorrow()) && (parseInt(flight.Time)<300)) //next date, only first 3 hours
+    || ((flight.Date == getTomorrow()) //&& (parseInt(flight.Time)<300)
+      ) //next date, only first 3 hours
       )
     {
       var Date = '"Date"' + ":" + '"' +  flightRawList[i].Date + '", ';
