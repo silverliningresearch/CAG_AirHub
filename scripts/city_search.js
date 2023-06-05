@@ -150,7 +150,7 @@ function update_drop_box_city_list() {
       count++;
     }
     
-    if (count > 7) {
+    if (count > 30) {
       break;
     }
   }

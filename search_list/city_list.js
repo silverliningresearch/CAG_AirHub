@@ -1,5 +1,6 @@
 let cityRawList = `
 [
+  {"co": "United States (USA)", "city": "San Francisco"}, 
   {"co": "Andorra", "city": "Sant Julia de Loria"}, 
   {"co": "Andorra", "city": "Ordino"}, 
   {"co": "Andorra", "city": "les Escaldes"}, 
@@ -50975,7 +50976,7 @@ let cityRawList = `
   {"co": "United States (USA)", "city": "San Diego Country Estates"}, 
   {"co": "United States (USA)", "city": "San Dimas"}, 
   {"co": "United States (USA)", "city": "San Fernando"}, 
-  {"co": "United States (USA)", "city": "San Francisco"}, 
+  
   {"co": "United States (USA)", "city": "San Gabriel"}, 
   {"co": "United States (USA)", "city": "San Jacinto"}, 
   {"co": "United States (USA)", "city": "San Jose"}, 
