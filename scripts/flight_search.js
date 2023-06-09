@@ -14,7 +14,7 @@ function getToDate() {
   if (day.length < 2) 
       day = '0' + day;
 
-  return [day, month,year].join('-');
+  return [day, month, year].join('-');
 }
 
 function getTomorrow() {
@@ -73,7 +73,9 @@ function load_flight_list() {
   for (i = 0; i < flightRawList.length; i++) {
     var flight = flightRawList[i];
 
-    if(((flight.Date == getToDate())  && (notDeparted_flight_search(flight.Time)))
+    if(((flight.Date == getToDate()) 
+    //&& (notDeparted_flight_search(flight.Time))
+    )
     || ((flight.Date == getTomorrow()) //&& (parseInt(flight.Time)<300)
       ) //next date, only first 3 hours
       )
