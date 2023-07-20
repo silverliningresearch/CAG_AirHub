@@ -7152,6 +7152,8 @@ let cityRawList = `
   {"co": "Cameroon", "city": "Akom II"}, 
   {"co": "Cameroon", "city": "Abong Mbang"}, 
   {"co": "Cameroon", "city": "Ndom"}, 
+  {"co": "China", "city": "Xinjiang"}, 
+  {"co": "China", "city": "Ürümqi/Dihua"}, 
   {"co": "China", "city": "Zhefang"}, 
   {"co": "China", "city": "Zhangfeng"}, 
   {"co": "China", "city": "Zepu"}, 
