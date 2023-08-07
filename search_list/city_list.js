@@ -7152,6 +7152,10 @@ let cityRawList = `
   {"co": "Cameroon", "city": "Akom II"}, 
   {"co": "Cameroon", "city": "Abong Mbang"}, 
   {"co": "Cameroon", "city": "Ndom"}, 
+  
+  {"co": "China", "city": "Hebei"}, 
+  {"co": "China", "city": "Henan"}, 
+  
   {"co": "China", "city": "Xinjiang"}, 
   {"co": "China", "city": "Ürümqi/Dihua"}, 
   {"co": "China", "city": "Zhefang"}, 
@@ -10588,6 +10592,7 @@ let cityRawList = `
   {"co": "Czechia", "city": "Bechyne"}, 
   {"co": "Czechia", "city": "As"}, 
   {"co": "Czechia", "city": "Cerny Most"}, 
+  {"co": "Germany", "city": "Nuremberg"}, 
   {"co": "Germany", "city": "Cologne"}, 
   {"co": "Germany", "city": "Dusseldorf"}, 
   {"co": "Germany", "city": "Zwoenitz"}, 
