@@ -11009,7 +11009,7 @@
     },
     {
         "Airport_Airline": "FCO - SQ",
-        "Quota": 2,
+        "Quota": 6,
         "Year": "2023",
         "Month": "11"
     },
@@ -11747,7 +11747,7 @@
     },
     {
         "Airport_Airline": "PKX - MU",
-        "Quota": 4,
+        "Quota": 10,
         "Year": "2023",
         "Month": "11"
     },
