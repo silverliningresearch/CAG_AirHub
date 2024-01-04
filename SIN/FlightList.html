@@ -37,8 +37,8 @@
       }
 
       .red {background-color: #f44336;;} /* Red */
-
       .blue {background-color: #0099CC;;} /* Blue */ 
+      .headerbackground {background-color: #66CCFF;;} /* Blue */ 
     </style>
 
 		<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
@@ -54,7 +54,7 @@
 
         data.addColumn('string', 'Date');
         data.addColumn('string', 'Time');
-        data.addColumn('number', 'Ter.');
+        data.addColumn('number', 'Terminal');
         data.addColumn('string', 'Flight');
         data.addColumn('string', 'To');
         data.addColumn('string', 'Airplane type');
@@ -83,8 +83,24 @@
         var dashboard = new google.visualization.Dashboard(
         document.getElementById('dashboard_div'));
 
+        //terminal fiter
+        var Terminal_Filter_options = {
+          'filterColumnLabel': 'Terminal',
+          "ui": {"label": "", 
+                "labelStacking": 'horizotal',
+                "caption": "Select Terminal:",
+                }
+        };
+
+        var Terminal_Filter = new google.visualization.ControlWrapper({
+          'controlType': 'CategoryFilter',
+          'containerId': 'terminal_filter_div',
+          'options': Terminal_Filter_options
+        });
+
+
         //create fiter
-        var options_Terminal = {
+        var options_Airplane = {
           'filterColumnLabel': 'Airplane type',
           "ui": {"label": "", 
                 "labelStacking": 'horizotal',
@@ -94,11 +110,11 @@
 
         var Airplane_Filter = new google.visualization.ControlWrapper({
           'controlType': 'CategoryFilter',
-          'containerId': 'filter_terminal_div',
-          'options': options_Terminal
+          'containerId': 'airplane_filter_div',
+          'options': options_Airplane
         });
 
-        var options = {
+        var options_Recliner = {
           'filterColumnLabel': 'Recliner',
           "ui": {"label": "", 
                 "labelStacking": 'horizotal',
@@ -109,7 +125,7 @@
         var Recliner_Filter = new google.visualization.ControlWrapper({
           'controlType': 'CategoryFilter',
           'containerId': 'recliner_filter_div',
-          'options': options
+          'options': options_Recliner
         });
 
         //create fiter
@@ -127,6 +143,7 @@
           'options': Flat_Bed_Filter_options
         });
 
+  
 
         // Create table
         var tableChart = new google.visualization.ChartWrapper({
@@ -134,13 +151,13 @@
           'containerId': 'table_div',
           'options': {
             'allowHtml': true, 
-            'cssClassNames': {tableCell: 'table-font', headerRow: 'table-font', headerCell: 'googleHeaderCell' },
+            'cssClassNames': {tableCell: 'table-font', headerRow: 'headerbackground', headerCell: 'googleHeaderCell' },
             //'sortColumn': 0, //time
             'showRowNumber': false, 'width': '100%', 'height': '100%'
           }
         });
 
-        dashboard.bind([Airplane_Filter, Recliner_Filter, Flat_Bed_Filter], tableChart);
+        dashboard.bind([Terminal_Filter, Airplane_Filter, Recliner_Filter, Flat_Bed_Filter], tableChart);
 
         var view = new google.visualization.DataView(data);
         dashboard.draw(view);
@@ -160,10 +177,9 @@
 
     <div id="dashboard_div">
       <!--Divs that will hold each control and chart-->
-      <div id="filter_terminal_div"></div>
-      </br>
+      <div id="terminal_filter_div"></div>
+      <div id="airplane_filter_div"></div>
       <div id="recliner_filter_div" style="font-size: 15px"> </div>
-      </br>
       <div id="flat_bed_filter_div" style="font-size: 15px"> </div>
       </br>
       <div id="table_div"></div>

@@ -102,5 +102,5 @@ function prepareInterviewData() {
 			   
   }
     
-    //console.log("daily_plan_data:", daily_plan_data)
+  console.log("today_flight_list:", today_flight_list)
 }
