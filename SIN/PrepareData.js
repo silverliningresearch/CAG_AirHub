@@ -95,6 +95,10 @@ function prepareInterviewData() {
         || (nextDate == flight.Date)
         )
     { 
+      if (flight.Flight == "QF292") 
+      {
+        flight.Airline = "Qantas";
+      }
       flight.Date_Time = flight.Date.substring(6,10) + flight.Date.substring(3,5) + flight.Date.substring(0,2) + flight.Time;
       //flight.Date_Time = flight.Time;
       today_flight_list.push(flight);
