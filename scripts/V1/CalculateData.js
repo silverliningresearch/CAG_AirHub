@@ -14,9 +14,9 @@ function CalculateAirportAirLineReport() {
     row = quota_data[i];
     row.Completed = 0;
     for (j = 0; j < interview_data.length; j++) {
-    if (row.Airport_Airline.toUpperCase() == interview_data[j].Airport_Airline.toUpperCase()) 
+      if (row.Airport_Airline.toUpperCase() == interview_data[j].Airport_Airline.toUpperCase()) 
       { 
-        row.Completed = row.Completed + interview_data[j].completed_interviews;
+        row.Completed++;
       }
     }
 
