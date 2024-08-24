@@ -2,7 +2,7 @@
 [
     {
         "Date": "01-07-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ388",
         "Airline": "Singapore Airlines",
         "Dest": "(BCN)",
@@ -13,7 +13,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -24,7 +24,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -35,7 +35,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -46,7 +46,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -57,7 +57,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -68,7 +68,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -79,7 +79,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -90,7 +90,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -101,7 +101,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -112,7 +112,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -123,7 +123,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -134,7 +134,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -145,7 +145,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -156,7 +156,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -167,7 +167,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -475,7 +475,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -486,7 +486,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -497,7 +497,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -508,7 +508,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -519,7 +519,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -530,7 +530,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -541,7 +541,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -552,7 +552,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -563,7 +563,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -574,7 +574,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -585,7 +585,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -596,7 +596,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -607,7 +607,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -618,7 +618,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -915,7 +915,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -926,7 +926,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -937,7 +937,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -948,7 +948,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -959,7 +959,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -970,7 +970,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -981,7 +981,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -992,7 +992,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "520",
+        "Time": "0520",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -1003,7 +1003,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -1014,7 +1014,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -1025,7 +1025,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -1036,7 +1036,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -1047,7 +1047,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -1058,7 +1058,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -1069,7 +1069,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -1080,7 +1080,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -1091,7 +1091,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "855",
+        "Time": "0855",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -1102,7 +1102,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -1377,7 +1377,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ388",
         "Airline": "Singapore Airlines",
         "Dest": "(BCN)",
@@ -1388,7 +1388,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -1399,7 +1399,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -1410,7 +1410,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -1421,7 +1421,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -1432,7 +1432,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -1443,7 +1443,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -1454,7 +1454,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -1465,7 +1465,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -1476,7 +1476,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -1487,7 +1487,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -1498,7 +1498,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -1509,7 +1509,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -1520,7 +1520,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -1531,7 +1531,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -1817,7 +1817,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -1828,7 +1828,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -1839,7 +1839,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -1850,7 +1850,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -1861,7 +1861,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -1872,7 +1872,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -1883,7 +1883,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -1894,7 +1894,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "520",
+        "Time": "0520",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -1905,7 +1905,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -1916,7 +1916,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -1927,7 +1927,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -1938,7 +1938,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -1949,7 +1949,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -1960,7 +1960,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -1971,7 +1971,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -1982,7 +1982,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -2257,7 +2257,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -2268,7 +2268,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -2279,7 +2279,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -2290,7 +2290,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -2301,7 +2301,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -2312,7 +2312,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -2323,7 +2323,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -2334,7 +2334,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -2345,7 +2345,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -2356,7 +2356,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -2367,7 +2367,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -2378,7 +2378,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -2389,7 +2389,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -2400,7 +2400,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -2411,7 +2411,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -2697,7 +2697,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -2708,7 +2708,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -2719,7 +2719,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -2730,7 +2730,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -2741,7 +2741,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -2752,7 +2752,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -2763,7 +2763,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "520",
+        "Time": "0520",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -2774,7 +2774,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -2785,7 +2785,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -2796,7 +2796,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -2807,7 +2807,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -2818,7 +2818,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -2829,7 +2829,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -2840,7 +2840,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "855",
+        "Time": "0855",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -2851,7 +2851,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -3115,7 +3115,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ388",
         "Airline": "Singapore Airlines",
         "Dest": "(BCN)",
@@ -3126,7 +3126,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -3137,7 +3137,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -3148,7 +3148,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -3159,7 +3159,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -3170,7 +3170,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -3181,7 +3181,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -3192,7 +3192,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -3203,7 +3203,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -3214,7 +3214,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -3225,7 +3225,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -3236,7 +3236,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -3247,7 +3247,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -3258,7 +3258,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -3269,7 +3269,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -3280,7 +3280,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -3588,7 +3588,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -3599,7 +3599,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -3610,7 +3610,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -3621,7 +3621,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -3632,7 +3632,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -3643,7 +3643,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -3654,7 +3654,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -3665,7 +3665,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -3676,7 +3676,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -3687,7 +3687,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -3698,7 +3698,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -3709,7 +3709,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -3720,7 +3720,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -3731,7 +3731,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -4028,7 +4028,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -4039,7 +4039,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -4050,7 +4050,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -4061,7 +4061,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -4072,7 +4072,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -4083,7 +4083,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -4094,7 +4094,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -4105,7 +4105,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "520",
+        "Time": "0520",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -4116,7 +4116,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -4127,7 +4127,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -4138,7 +4138,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -4149,7 +4149,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -4160,7 +4160,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -4171,7 +4171,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -4182,7 +4182,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -4193,7 +4193,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -4204,7 +4204,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "855",
+        "Time": "0855",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -4215,7 +4215,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -4490,7 +4490,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ388",
         "Airline": "Singapore Airlines",
         "Dest": "(BCN)",
@@ -4501,7 +4501,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -4512,7 +4512,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -4523,7 +4523,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -4534,7 +4534,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -4545,7 +4545,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -4556,7 +4556,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -4567,7 +4567,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -4578,7 +4578,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -4589,7 +4589,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -4600,7 +4600,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -4611,7 +4611,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -4622,7 +4622,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -4633,7 +4633,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -4644,7 +4644,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -4930,7 +4930,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -4941,7 +4941,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -4952,7 +4952,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -4963,7 +4963,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -4974,7 +4974,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -4985,7 +4985,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -4996,7 +4996,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -5007,7 +5007,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "520",
+        "Time": "0520",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -5018,7 +5018,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -5029,7 +5029,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -5040,7 +5040,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -5051,7 +5051,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -5062,7 +5062,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -5073,7 +5073,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -5084,7 +5084,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -5095,7 +5095,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -5370,7 +5370,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -5381,7 +5381,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -5392,7 +5392,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -5403,7 +5403,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -5414,7 +5414,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -5425,7 +5425,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -5436,7 +5436,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -5447,7 +5447,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -5458,7 +5458,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -5469,7 +5469,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -5480,7 +5480,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -5491,7 +5491,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -5502,7 +5502,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -5513,7 +5513,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -5524,7 +5524,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -5810,7 +5810,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -5821,7 +5821,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -5832,7 +5832,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -5843,7 +5843,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -5854,7 +5854,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -5865,7 +5865,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -5876,7 +5876,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "520",
+        "Time": "0520",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -5887,7 +5887,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -5898,7 +5898,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -5909,7 +5909,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -5920,7 +5920,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -5931,7 +5931,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -5942,7 +5942,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -5953,7 +5953,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "855",
+        "Time": "0855",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -5964,7 +5964,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -6228,7 +6228,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ388",
         "Airline": "Singapore Airlines",
         "Dest": "(BCN)",
@@ -6239,7 +6239,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -6250,7 +6250,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -6261,7 +6261,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -6272,7 +6272,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -6283,7 +6283,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -6294,7 +6294,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -6305,7 +6305,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -6316,7 +6316,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -6327,7 +6327,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -6338,7 +6338,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -6349,7 +6349,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -6360,7 +6360,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -6371,7 +6371,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -6382,7 +6382,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -6393,7 +6393,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -6701,7 +6701,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -6712,7 +6712,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -6723,7 +6723,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -6734,7 +6734,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -6745,7 +6745,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -6756,7 +6756,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -6767,7 +6767,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -6778,7 +6778,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -6789,7 +6789,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -6800,7 +6800,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -6811,7 +6811,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -6822,7 +6822,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -6833,7 +6833,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -6844,7 +6844,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -7141,7 +7141,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -7152,7 +7152,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -7163,7 +7163,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -7174,7 +7174,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -7185,7 +7185,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -7196,7 +7196,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -7207,7 +7207,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -7218,7 +7218,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "520",
+        "Time": "0520",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -7229,7 +7229,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -7240,7 +7240,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -7251,7 +7251,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -7262,7 +7262,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -7273,7 +7273,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -7284,7 +7284,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -7295,7 +7295,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -7306,7 +7306,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -7317,7 +7317,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "855",
+        "Time": "0855",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -7328,7 +7328,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -7603,7 +7603,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ388",
         "Airline": "Singapore Airlines",
         "Dest": "(BCN)",
@@ -7614,7 +7614,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -7625,7 +7625,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -7636,7 +7636,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -7647,7 +7647,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -7658,7 +7658,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -7669,7 +7669,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -7680,7 +7680,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -7691,7 +7691,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -7702,7 +7702,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -7713,7 +7713,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -7724,7 +7724,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -7735,7 +7735,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -7746,7 +7746,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -7757,7 +7757,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -8043,7 +8043,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -8054,7 +8054,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -8065,7 +8065,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -8076,7 +8076,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -8087,7 +8087,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -8098,7 +8098,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -8109,7 +8109,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -8120,7 +8120,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "520",
+        "Time": "0520",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -8131,7 +8131,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -8142,7 +8142,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -8153,7 +8153,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -8164,7 +8164,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -8175,7 +8175,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -8186,7 +8186,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -8197,7 +8197,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -8208,7 +8208,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -8483,7 +8483,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -8494,7 +8494,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -8505,7 +8505,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -8516,7 +8516,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -8527,7 +8527,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -8538,7 +8538,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -8549,7 +8549,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -8560,7 +8560,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -8571,7 +8571,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -8582,7 +8582,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -8593,7 +8593,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -8604,7 +8604,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -8615,7 +8615,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -8626,7 +8626,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -8637,7 +8637,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -8923,7 +8923,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -8934,7 +8934,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -8945,7 +8945,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -8956,7 +8956,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -8967,7 +8967,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -8978,7 +8978,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -8989,7 +8989,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "520",
+        "Time": "0520",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -9000,7 +9000,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -9011,7 +9011,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -9022,7 +9022,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -9033,7 +9033,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -9044,7 +9044,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -9055,7 +9055,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -9066,7 +9066,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "855",
+        "Time": "0855",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -9077,7 +9077,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -9341,7 +9341,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ388",
         "Airline": "Singapore Airlines",
         "Dest": "(BCN)",
@@ -9352,7 +9352,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -9363,7 +9363,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -9374,7 +9374,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -9385,7 +9385,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -9396,7 +9396,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -9407,7 +9407,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -9418,7 +9418,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -9429,7 +9429,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -9440,7 +9440,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -9451,7 +9451,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -9462,7 +9462,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -9473,7 +9473,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -9484,7 +9484,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -9495,7 +9495,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -9506,7 +9506,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -9517,7 +9517,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -9528,7 +9528,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "850",
+        "Time": "0850",
         "Flight": "SQ295",
         "Airline": "Singapore Airlines",
         "Dest": "(CHC)",
@@ -9836,7 +9836,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -9847,7 +9847,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -9858,7 +9858,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -9869,7 +9869,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -9880,7 +9880,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -9891,7 +9891,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -9902,7 +9902,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -9913,7 +9913,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -9924,7 +9924,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -9935,7 +9935,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -9946,7 +9946,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -9957,7 +9957,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -9968,7 +9968,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -9979,7 +9979,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -10276,7 +10276,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -10287,7 +10287,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -10298,7 +10298,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -10309,7 +10309,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -10320,7 +10320,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -10331,7 +10331,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -10342,7 +10342,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -10353,7 +10353,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "520",
+        "Time": "0520",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -10364,7 +10364,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -10375,7 +10375,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -10386,7 +10386,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -10397,7 +10397,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -10408,7 +10408,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -10419,7 +10419,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -10430,7 +10430,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -10441,7 +10441,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -10452,7 +10452,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "855",
+        "Time": "0855",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -10463,7 +10463,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -10738,7 +10738,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ388",
         "Airline": "Singapore Airlines",
         "Dest": "(BCN)",
@@ -10749,7 +10749,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -10760,7 +10760,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -10771,7 +10771,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -10782,7 +10782,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -10793,7 +10793,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -10804,7 +10804,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -10815,7 +10815,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -10826,7 +10826,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -10837,7 +10837,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -10848,7 +10848,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -10859,7 +10859,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -10870,7 +10870,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -10881,7 +10881,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -10892,7 +10892,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -10903,7 +10903,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "850",
+        "Time": "0850",
         "Flight": "SQ295",
         "Airline": "Singapore Airlines",
         "Dest": "(CHC)",
@@ -11189,7 +11189,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -11200,7 +11200,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -11211,7 +11211,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -11222,7 +11222,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -11233,7 +11233,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -11244,7 +11244,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -11255,7 +11255,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -11266,7 +11266,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "520",
+        "Time": "0520",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -11277,7 +11277,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -11288,7 +11288,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -11299,7 +11299,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -11310,7 +11310,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -11321,7 +11321,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -11332,7 +11332,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -11343,7 +11343,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -11354,7 +11354,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -11629,7 +11629,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -11640,7 +11640,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -11651,7 +11651,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -11662,7 +11662,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -11673,7 +11673,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -11684,7 +11684,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -11695,7 +11695,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -11706,7 +11706,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -11717,7 +11717,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -11728,7 +11728,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -11739,7 +11739,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -11750,7 +11750,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -11761,7 +11761,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -11772,7 +11772,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -11783,7 +11783,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -11794,7 +11794,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -11805,7 +11805,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "850",
+        "Time": "0850",
         "Flight": "SQ295",
         "Airline": "Singapore Airlines",
         "Dest": "(CHC)",
@@ -12091,7 +12091,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -12102,7 +12102,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -12113,7 +12113,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -12124,7 +12124,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -12135,7 +12135,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -12146,7 +12146,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -12157,7 +12157,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "520",
+        "Time": "0520",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -12168,7 +12168,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -12179,7 +12179,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -12190,7 +12190,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -12201,7 +12201,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -12212,7 +12212,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -12223,7 +12223,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -12234,7 +12234,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "855",
+        "Time": "0855",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -12245,7 +12245,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -12509,7 +12509,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ388",
         "Airline": "Singapore Airlines",
         "Dest": "(BCN)",
@@ -12520,7 +12520,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -12531,7 +12531,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -12542,7 +12542,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -12553,7 +12553,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -12564,7 +12564,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -12575,7 +12575,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -12586,7 +12586,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -12597,7 +12597,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -12608,7 +12608,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -12619,7 +12619,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -12630,7 +12630,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -12641,7 +12641,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -12652,7 +12652,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -12663,7 +12663,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -12674,7 +12674,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -12685,7 +12685,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -12696,7 +12696,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "850",
+        "Time": "0850",
         "Flight": "SQ295",
         "Airline": "Singapore Airlines",
         "Dest": "(CHC)",
@@ -13004,7 +13004,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -13015,7 +13015,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -13026,7 +13026,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -13037,7 +13037,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -13048,7 +13048,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -13059,7 +13059,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -13070,7 +13070,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -13081,7 +13081,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -13092,7 +13092,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -13103,7 +13103,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -13114,7 +13114,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -13125,7 +13125,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -13136,7 +13136,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -13147,7 +13147,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -13444,7 +13444,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -13455,7 +13455,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -13466,7 +13466,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -13477,7 +13477,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -13488,7 +13488,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -13499,7 +13499,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -13510,7 +13510,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -13521,7 +13521,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -13532,7 +13532,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -13543,7 +13543,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -13554,7 +13554,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -13565,7 +13565,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -13576,7 +13576,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -13587,7 +13587,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -13598,7 +13598,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -13609,7 +13609,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -13620,7 +13620,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -14038,7 +14038,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -14049,7 +14049,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -14060,7 +14060,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -14071,7 +14071,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -14082,7 +14082,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -14093,7 +14093,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -14104,7 +14104,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -14115,7 +14115,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -14126,7 +14126,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -14137,7 +14137,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -14148,7 +14148,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -14159,7 +14159,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -14170,7 +14170,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -14181,7 +14181,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -14192,7 +14192,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -14203,7 +14203,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -14214,7 +14214,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -14225,7 +14225,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -14236,7 +14236,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -14247,7 +14247,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -14709,7 +14709,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -14720,7 +14720,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -14731,7 +14731,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -14742,7 +14742,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -14753,7 +14753,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -14764,7 +14764,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -14775,7 +14775,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -14786,7 +14786,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -14797,7 +14797,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -14808,7 +14808,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -14819,7 +14819,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "SQ514",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -14830,7 +14830,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -14841,7 +14841,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -14852,7 +14852,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -14863,7 +14863,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -14874,7 +14874,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -14885,7 +14885,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -14896,7 +14896,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -15347,7 +15347,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -15358,7 +15358,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -15369,7 +15369,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -15380,7 +15380,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -15391,7 +15391,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -15402,7 +15402,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -15413,7 +15413,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -15424,7 +15424,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -15435,7 +15435,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -15446,7 +15446,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -15457,7 +15457,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -15468,7 +15468,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -15479,7 +15479,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -15490,7 +15490,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -15501,7 +15501,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -15512,7 +15512,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -15523,7 +15523,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -15534,7 +15534,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -15545,7 +15545,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -15556,7 +15556,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -15567,7 +15567,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -15578,7 +15578,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -15589,7 +15589,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -16040,7 +16040,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -16051,7 +16051,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -16062,7 +16062,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -16073,7 +16073,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -16084,7 +16084,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -16095,7 +16095,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -16106,7 +16106,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -16117,7 +16117,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -16128,7 +16128,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -16139,7 +16139,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -16150,7 +16150,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -16161,7 +16161,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -16172,7 +16172,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -16183,7 +16183,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -16194,7 +16194,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -16205,7 +16205,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -16216,7 +16216,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -16227,7 +16227,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -16667,7 +16667,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -16678,7 +16678,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -16689,7 +16689,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -16700,7 +16700,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -16711,7 +16711,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -16722,7 +16722,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -16733,7 +16733,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -16744,7 +16744,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -16755,7 +16755,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -16766,7 +16766,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -16777,7 +16777,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -16788,7 +16788,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -16799,7 +16799,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -16810,7 +16810,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -16821,7 +16821,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -16832,7 +16832,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -16843,7 +16843,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -16854,7 +16854,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -16865,7 +16865,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -16876,7 +16876,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -17294,7 +17294,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -17305,7 +17305,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -17316,7 +17316,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -17327,7 +17327,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -17338,7 +17338,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -17349,7 +17349,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -17360,7 +17360,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -17371,7 +17371,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -17382,7 +17382,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -17393,7 +17393,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -17404,7 +17404,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -17415,7 +17415,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -17426,7 +17426,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -17437,7 +17437,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -17448,7 +17448,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -17459,7 +17459,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -17470,7 +17470,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -17481,7 +17481,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -17492,7 +17492,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -17503,7 +17503,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -17921,7 +17921,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -17932,7 +17932,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -17943,7 +17943,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -17954,7 +17954,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -17965,7 +17965,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -17976,7 +17976,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -17987,7 +17987,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -17998,7 +17998,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -18009,7 +18009,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -18020,7 +18020,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -18031,7 +18031,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -18042,7 +18042,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -18053,7 +18053,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -18064,7 +18064,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -18075,7 +18075,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -18086,7 +18086,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -18097,7 +18097,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -18108,7 +18108,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -18119,7 +18119,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -18548,7 +18548,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -18559,7 +18559,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -18570,7 +18570,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -18581,7 +18581,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -18592,7 +18592,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -18603,7 +18603,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -18614,7 +18614,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -18625,7 +18625,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -18636,7 +18636,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -18647,7 +18647,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -18658,7 +18658,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -18669,7 +18669,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "SQ526",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -18680,7 +18680,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "SQ514",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -18691,7 +18691,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -18702,7 +18702,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -18713,7 +18713,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -18724,7 +18724,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -18735,7 +18735,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -18746,7 +18746,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -18757,7 +18757,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -19208,7 +19208,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -19219,7 +19219,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -19230,7 +19230,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -19241,7 +19241,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -19252,7 +19252,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -19263,7 +19263,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -19274,7 +19274,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -19285,7 +19285,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -19296,7 +19296,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -19307,7 +19307,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -19318,7 +19318,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -19329,7 +19329,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -19340,7 +19340,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -19351,7 +19351,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -19362,7 +19362,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -19373,7 +19373,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -19384,7 +19384,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -19395,7 +19395,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -19406,7 +19406,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -19846,7 +19846,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -19857,7 +19857,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -19868,7 +19868,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -19879,7 +19879,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -19890,7 +19890,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -19901,7 +19901,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -19912,7 +19912,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -19923,7 +19923,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -19934,7 +19934,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -19945,7 +19945,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -19956,7 +19956,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -19967,7 +19967,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -19978,7 +19978,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "SQ526",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -19989,7 +19989,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "SQ506",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -20000,7 +20000,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "SQ514",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -20011,7 +20011,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -20022,7 +20022,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -20033,7 +20033,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -20044,7 +20044,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -20055,7 +20055,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -20066,7 +20066,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -20077,7 +20077,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -20088,7 +20088,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -20528,7 +20528,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -20539,7 +20539,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -20550,7 +20550,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -20561,7 +20561,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -20572,7 +20572,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -20583,7 +20583,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -20594,7 +20594,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -20605,7 +20605,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -20616,7 +20616,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -20627,7 +20627,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -20638,7 +20638,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -20649,7 +20649,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -20660,7 +20660,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -20671,7 +20671,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -20682,7 +20682,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -20693,7 +20693,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -20704,7 +20704,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -20715,7 +20715,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -21144,7 +21144,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -21155,7 +21155,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -21166,7 +21166,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -21177,7 +21177,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -21188,7 +21188,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -21199,7 +21199,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -21210,7 +21210,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -21221,7 +21221,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -21232,7 +21232,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -21243,7 +21243,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -21254,7 +21254,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -21265,7 +21265,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -21276,7 +21276,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -21287,7 +21287,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -21298,7 +21298,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -21309,7 +21309,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -21320,7 +21320,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -21331,7 +21331,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -21342,7 +21342,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -21353,7 +21353,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -21760,7 +21760,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -21771,7 +21771,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -21782,7 +21782,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -21793,7 +21793,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -21804,7 +21804,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -21815,7 +21815,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -21826,7 +21826,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -21837,7 +21837,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -21848,7 +21848,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -21859,7 +21859,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -21870,7 +21870,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -21881,7 +21881,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -21892,7 +21892,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -21903,7 +21903,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -21914,7 +21914,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -21925,7 +21925,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -21936,7 +21936,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -21947,7 +21947,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -21958,7 +21958,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -21969,7 +21969,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -22387,7 +22387,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -22398,7 +22398,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -22409,7 +22409,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -22420,7 +22420,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -22431,7 +22431,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -22442,7 +22442,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -22453,7 +22453,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -22464,7 +22464,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -22475,7 +22475,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -22486,7 +22486,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -22497,7 +22497,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -22508,7 +22508,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -22519,7 +22519,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -22530,7 +22530,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -22541,7 +22541,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -22552,7 +22552,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -22563,7 +22563,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -22574,7 +22574,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -22585,7 +22585,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -23014,7 +23014,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -23025,7 +23025,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -23036,7 +23036,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -23047,7 +23047,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -23058,7 +23058,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -23069,7 +23069,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -23080,7 +23080,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -23091,7 +23091,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -23102,7 +23102,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -23113,7 +23113,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -23124,7 +23124,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -23135,7 +23135,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -23146,7 +23146,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -23157,7 +23157,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -23168,7 +23168,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -23179,7 +23179,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -23190,7 +23190,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -23201,7 +23201,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -23212,7 +23212,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -23223,7 +23223,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -23674,7 +23674,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -23685,7 +23685,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -23696,7 +23696,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -23707,7 +23707,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -23718,7 +23718,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -23729,7 +23729,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -23740,7 +23740,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -23751,7 +23751,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -23762,7 +23762,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -23773,7 +23773,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -23784,7 +23784,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -23795,7 +23795,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -23806,7 +23806,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -23817,7 +23817,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -23828,7 +23828,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -23839,7 +23839,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -23850,7 +23850,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -23861,7 +23861,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -23872,7 +23872,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -24334,7 +24334,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -24345,7 +24345,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -24356,7 +24356,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -24367,7 +24367,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -24378,7 +24378,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -24389,7 +24389,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -24400,7 +24400,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -24411,7 +24411,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -24422,7 +24422,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -24433,7 +24433,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -24444,7 +24444,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -24455,7 +24455,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -24466,7 +24466,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -24477,7 +24477,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -24488,7 +24488,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -24499,7 +24499,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -24510,7 +24510,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -24521,7 +24521,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -24532,7 +24532,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -24543,7 +24543,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -24554,7 +24554,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -24565,7 +24565,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -24576,7 +24576,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -25016,7 +25016,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -25027,7 +25027,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -25038,7 +25038,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -25049,7 +25049,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -25060,7 +25060,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -25071,7 +25071,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -25082,7 +25082,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -25093,7 +25093,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -25104,7 +25104,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -25115,7 +25115,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -25126,7 +25126,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -25137,7 +25137,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -25148,7 +25148,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -25159,7 +25159,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -25170,7 +25170,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -25181,7 +25181,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -25192,7 +25192,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -25203,7 +25203,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -25643,7 +25643,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -25654,7 +25654,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -25665,7 +25665,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -25676,7 +25676,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -25687,7 +25687,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -25698,7 +25698,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -25709,7 +25709,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -25720,7 +25720,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -25731,7 +25731,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -25742,7 +25742,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -25753,7 +25753,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -25764,7 +25764,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -25775,7 +25775,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -25786,7 +25786,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -25797,7 +25797,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -25808,7 +25808,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -25819,7 +25819,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -25830,7 +25830,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -25841,7 +25841,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -25852,7 +25852,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -26270,7 +26270,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -26281,7 +26281,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -26292,7 +26292,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -26303,7 +26303,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -26314,7 +26314,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -26325,7 +26325,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -26336,7 +26336,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -26347,7 +26347,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -26358,7 +26358,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -26369,7 +26369,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -26380,7 +26380,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -26391,7 +26391,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -26402,7 +26402,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -26413,7 +26413,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -26424,7 +26424,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -26435,7 +26435,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -26446,7 +26446,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -26457,7 +26457,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -26468,7 +26468,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -26886,7 +26886,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -26897,7 +26897,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -26908,7 +26908,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -26919,7 +26919,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -26930,7 +26930,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -26941,7 +26941,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -26952,7 +26952,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -26963,7 +26963,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -26974,7 +26974,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -26985,7 +26985,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -26996,7 +26996,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -27007,7 +27007,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -27018,7 +27018,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -27029,7 +27029,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -27040,7 +27040,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -27051,7 +27051,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -27062,7 +27062,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -27073,7 +27073,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -27084,7 +27084,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -27535,7 +27535,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -27546,7 +27546,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -27557,7 +27557,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -27568,7 +27568,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -27579,7 +27579,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -27590,7 +27590,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -27601,7 +27601,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -27612,7 +27612,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -27623,7 +27623,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -27634,7 +27634,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -27645,7 +27645,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -27656,7 +27656,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -27667,7 +27667,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -27678,7 +27678,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -27689,7 +27689,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -27700,7 +27700,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -27711,7 +27711,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -27722,7 +27722,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -27733,7 +27733,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -28195,7 +28195,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -28206,7 +28206,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -28217,7 +28217,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -28228,7 +28228,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -28239,7 +28239,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -28250,7 +28250,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -28261,7 +28261,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -28272,7 +28272,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -28283,7 +28283,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -28294,7 +28294,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -28305,7 +28305,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -28316,7 +28316,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -28327,7 +28327,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -28338,7 +28338,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -28349,7 +28349,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -28360,7 +28360,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -28371,7 +28371,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -28382,7 +28382,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -28393,7 +28393,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -28833,7 +28833,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -28844,7 +28844,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -28855,7 +28855,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -28866,7 +28866,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -28877,7 +28877,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -28888,7 +28888,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -28899,7 +28899,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -28910,7 +28910,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -28921,7 +28921,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -28932,7 +28932,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -28943,7 +28943,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -28954,7 +28954,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -28965,7 +28965,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -28976,7 +28976,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -28987,7 +28987,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -28998,7 +28998,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -29009,7 +29009,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -29020,7 +29020,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -29031,7 +29031,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -29042,7 +29042,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -29053,7 +29053,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -29064,7 +29064,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -29075,7 +29075,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -29526,7 +29526,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -29537,7 +29537,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -29548,7 +29548,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -29559,7 +29559,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -29570,7 +29570,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -29581,7 +29581,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -29592,7 +29592,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -29603,7 +29603,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -29614,7 +29614,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -29625,7 +29625,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -29636,7 +29636,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -29647,7 +29647,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -29658,7 +29658,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -29669,7 +29669,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -29680,7 +29680,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -29691,7 +29691,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -29702,7 +29702,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -30131,7 +30131,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -30142,7 +30142,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -30153,7 +30153,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -30164,7 +30164,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -30175,7 +30175,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -30186,7 +30186,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -30197,7 +30197,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -30208,7 +30208,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -30219,7 +30219,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -30230,7 +30230,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -30241,7 +30241,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -30252,7 +30252,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -30263,7 +30263,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -30274,7 +30274,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -30285,7 +30285,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -30296,7 +30296,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -30307,7 +30307,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -30318,7 +30318,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -30329,7 +30329,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -30340,7 +30340,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -30758,7 +30758,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -30769,7 +30769,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -30780,7 +30780,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -30791,7 +30791,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -30802,7 +30802,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -30813,7 +30813,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -30824,7 +30824,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -30835,7 +30835,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -30846,7 +30846,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -30857,7 +30857,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -30868,7 +30868,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -30879,7 +30879,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -30890,7 +30890,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -30901,7 +30901,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -30912,7 +30912,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -30923,7 +30923,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -30934,7 +30934,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -30945,7 +30945,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -30956,7 +30956,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -31363,7 +31363,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -31374,7 +31374,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -31385,7 +31385,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -31396,7 +31396,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -31407,7 +31407,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -31418,7 +31418,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -31429,7 +31429,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -31440,7 +31440,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -31451,7 +31451,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -31462,7 +31462,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -31473,7 +31473,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -31484,7 +31484,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -31495,7 +31495,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -31506,7 +31506,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -31517,7 +31517,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -31528,7 +31528,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -31539,7 +31539,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -31550,7 +31550,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -31561,7 +31561,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -32001,7 +32001,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -32012,7 +32012,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -32023,7 +32023,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -32034,7 +32034,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -32045,7 +32045,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -32056,7 +32056,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -32067,7 +32067,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -32078,7 +32078,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -32089,7 +32089,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -32100,7 +32100,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -32111,7 +32111,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -32122,7 +32122,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -32133,7 +32133,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -32144,7 +32144,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -32155,7 +32155,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -32166,7 +32166,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -32177,7 +32177,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -32188,7 +32188,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -32199,7 +32199,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -32210,7 +32210,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -32672,7 +32672,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -32683,7 +32683,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -32694,7 +32694,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -32705,7 +32705,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -32716,7 +32716,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -32727,7 +32727,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -32738,7 +32738,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -32749,7 +32749,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -32760,7 +32760,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -32771,7 +32771,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -32782,7 +32782,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -32793,7 +32793,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -32804,7 +32804,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -32815,7 +32815,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -32826,7 +32826,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -32837,7 +32837,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -32848,7 +32848,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -32859,7 +32859,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -33299,7 +33299,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -33310,7 +33310,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -33321,7 +33321,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -33332,7 +33332,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -33343,7 +33343,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -33354,7 +33354,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -33365,7 +33365,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -33376,7 +33376,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -33387,7 +33387,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -33398,7 +33398,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -33409,7 +33409,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -33420,7 +33420,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -33431,7 +33431,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -33442,7 +33442,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -33453,7 +33453,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -33464,7 +33464,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -33475,7 +33475,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -33486,7 +33486,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -33497,7 +33497,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -33508,7 +33508,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -33519,7 +33519,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -33530,7 +33530,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -33541,7 +33541,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -33981,7 +33981,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -33992,7 +33992,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -34003,7 +34003,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -34014,7 +34014,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -34025,7 +34025,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -34036,7 +34036,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -34047,7 +34047,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -34058,7 +34058,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -34069,7 +34069,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -34080,7 +34080,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -34091,7 +34091,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -34102,7 +34102,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -34113,7 +34113,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -34124,7 +34124,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -34135,7 +34135,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -34146,7 +34146,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -34157,7 +34157,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -34168,7 +34168,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -34586,7 +34586,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -34597,7 +34597,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -34608,7 +34608,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -34619,7 +34619,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -34630,7 +34630,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -34641,7 +34641,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -34652,7 +34652,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -34663,7 +34663,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -34674,7 +34674,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -34685,7 +34685,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -34696,7 +34696,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -34707,7 +34707,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -34718,7 +34718,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -34729,7 +34729,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -34740,7 +34740,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -34751,7 +34751,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -34762,7 +34762,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -34773,7 +34773,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -34784,7 +34784,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -34795,7 +34795,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -35202,7 +35202,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -35213,7 +35213,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -35224,7 +35224,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -35235,7 +35235,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -35246,7 +35246,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -35257,7 +35257,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -35268,7 +35268,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -35279,7 +35279,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -35290,7 +35290,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -35301,7 +35301,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -35312,7 +35312,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -35323,7 +35323,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -35334,7 +35334,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -35345,7 +35345,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -35356,7 +35356,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -35367,7 +35367,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -35378,7 +35378,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -35389,7 +35389,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -35400,7 +35400,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -35411,7 +35411,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -35818,7 +35818,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -35829,7 +35829,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -35840,7 +35840,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -35851,7 +35851,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -35862,7 +35862,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -35873,7 +35873,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -35884,7 +35884,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -35895,7 +35895,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -35906,7 +35906,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -35917,7 +35917,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -35928,7 +35928,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -35939,7 +35939,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -35950,7 +35950,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -35961,7 +35961,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -35972,7 +35972,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -35983,7 +35983,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -35994,7 +35994,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -36005,7 +36005,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -36016,7 +36016,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -36445,7 +36445,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -36456,7 +36456,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -36467,7 +36467,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -36478,7 +36478,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -36489,7 +36489,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -36500,7 +36500,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -36511,7 +36511,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -36522,7 +36522,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -36533,7 +36533,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -36544,7 +36544,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -36555,7 +36555,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -36566,7 +36566,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -36577,7 +36577,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -36588,7 +36588,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -36599,7 +36599,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -36610,7 +36610,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -36621,7 +36621,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -36632,7 +36632,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -36643,7 +36643,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -36654,7 +36654,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -37105,7 +37105,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -37116,7 +37116,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -37127,7 +37127,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -37138,7 +37138,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -37149,7 +37149,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -37160,7 +37160,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -37171,7 +37171,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -37182,7 +37182,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -37193,7 +37193,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -37204,7 +37204,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -37215,7 +37215,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -37226,7 +37226,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -37237,7 +37237,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -37248,7 +37248,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -37259,7 +37259,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -37270,7 +37270,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -37281,7 +37281,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -37292,7 +37292,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -37732,7 +37732,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -37743,7 +37743,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -37754,7 +37754,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -37765,7 +37765,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -37776,7 +37776,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -37787,7 +37787,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -37798,7 +37798,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -37809,7 +37809,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -37820,7 +37820,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -37831,7 +37831,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -37842,7 +37842,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -37853,7 +37853,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -37864,7 +37864,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -37875,7 +37875,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -37886,7 +37886,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -37897,7 +37897,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -37908,7 +37908,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -37919,7 +37919,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -37930,7 +37930,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -37941,7 +37941,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -37952,7 +37952,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -37963,7 +37963,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -37974,7 +37974,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -38414,7 +38414,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -38425,7 +38425,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -38436,7 +38436,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -38447,7 +38447,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -38458,7 +38458,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -38469,7 +38469,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -38480,7 +38480,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -38491,7 +38491,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -38502,7 +38502,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -38513,7 +38513,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -38524,7 +38524,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -38535,7 +38535,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -38546,7 +38546,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -38557,7 +38557,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -38568,7 +38568,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -38579,7 +38579,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -38590,7 +38590,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -38601,7 +38601,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -39041,7 +39041,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -39052,7 +39052,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -39063,7 +39063,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -39074,7 +39074,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -39085,7 +39085,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -39096,7 +39096,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -39107,7 +39107,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -39118,7 +39118,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -39129,7 +39129,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -39140,7 +39140,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -39151,7 +39151,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -39162,7 +39162,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -39173,7 +39173,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -39184,7 +39184,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -39195,7 +39195,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -39206,7 +39206,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -39217,7 +39217,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -39228,7 +39228,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -39239,7 +39239,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -39250,7 +39250,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -39668,7 +39668,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -39679,7 +39679,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -39690,7 +39690,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -39701,7 +39701,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -39712,7 +39712,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -39723,7 +39723,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -39734,7 +39734,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -39745,7 +39745,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -39756,7 +39756,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -39767,7 +39767,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -39778,7 +39778,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -39789,7 +39789,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -39800,7 +39800,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -39811,7 +39811,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -39822,7 +39822,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -39833,7 +39833,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -39844,7 +39844,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -39855,7 +39855,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -39866,7 +39866,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -39877,7 +39877,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -40295,7 +40295,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -40306,7 +40306,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -40317,7 +40317,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -40328,7 +40328,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -40339,7 +40339,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -40350,7 +40350,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -40361,7 +40361,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -40372,7 +40372,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -40383,7 +40383,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -40394,7 +40394,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -40405,7 +40405,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -40416,7 +40416,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -40427,7 +40427,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -40438,7 +40438,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -40449,7 +40449,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -40460,7 +40460,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -40471,7 +40471,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -40482,7 +40482,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -40493,7 +40493,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -40944,7 +40944,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -40955,7 +40955,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -40966,7 +40966,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -40977,7 +40977,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -40988,7 +40988,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -40999,7 +40999,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -41010,7 +41010,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -41021,7 +41021,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -41032,7 +41032,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -41043,7 +41043,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -41054,7 +41054,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -41065,7 +41065,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -41076,7 +41076,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -41087,7 +41087,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -41098,7 +41098,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -41109,7 +41109,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -41120,7 +41120,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -41131,7 +41131,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -41142,7 +41142,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -41153,7 +41153,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -41615,7 +41615,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -41626,7 +41626,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -41637,7 +41637,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -41648,7 +41648,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -41659,7 +41659,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -41670,7 +41670,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -41681,7 +41681,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -41692,7 +41692,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -41703,7 +41703,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -41714,7 +41714,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -41725,7 +41725,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -41736,7 +41736,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -41747,7 +41747,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -41758,7 +41758,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -41769,7 +41769,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -41780,7 +41780,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -41791,7 +41791,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -41802,7 +41802,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -42242,7 +42242,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -42253,7 +42253,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -42264,7 +42264,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -42275,7 +42275,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -42286,7 +42286,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -42297,7 +42297,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -42308,7 +42308,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -42319,7 +42319,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -42330,7 +42330,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -42341,7 +42341,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -42352,7 +42352,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -42363,7 +42363,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -42374,7 +42374,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -42385,7 +42385,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -42396,7 +42396,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -42407,7 +42407,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -42418,7 +42418,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -42429,7 +42429,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -42440,7 +42440,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -42451,7 +42451,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -42462,7 +42462,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -42473,7 +42473,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -42484,7 +42484,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -42924,7 +42924,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -42935,7 +42935,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -42946,7 +42946,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -42957,7 +42957,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -42968,7 +42968,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -42979,7 +42979,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -42990,7 +42990,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -43001,7 +43001,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -43012,7 +43012,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -43023,7 +43023,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -43034,7 +43034,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -43045,7 +43045,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -43056,7 +43056,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -43067,7 +43067,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -43078,7 +43078,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -43089,7 +43089,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -43100,7 +43100,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -43111,7 +43111,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -43551,7 +43551,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -43562,7 +43562,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "15",
+        "Time": "0015",
         "Flight": "QF78",
         "Airline": "Qantas",
         "Dest": "(MEL)",
@@ -43573,7 +43573,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -43584,7 +43584,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -43595,7 +43595,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -43606,7 +43606,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -43617,7 +43617,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -43628,7 +43628,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -43639,7 +43639,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -43650,7 +43650,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -43661,7 +43661,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -43672,7 +43672,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -43683,7 +43683,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -43694,7 +43694,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -43705,7 +43705,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -43716,7 +43716,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -43727,7 +43727,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -43738,7 +43738,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -43749,7 +43749,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -43760,7 +43760,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -43771,7 +43771,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -44189,7 +44189,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -44200,7 +44200,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -44211,7 +44211,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -44222,7 +44222,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -44233,7 +44233,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -44244,7 +44244,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -44255,7 +44255,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -44266,7 +44266,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -44277,7 +44277,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -44288,7 +44288,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -44299,7 +44299,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -44310,7 +44310,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -44321,7 +44321,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -44332,7 +44332,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -44343,7 +44343,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -44354,7 +44354,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -44365,7 +44365,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -44376,7 +44376,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -44387,7 +44387,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -44398,7 +44398,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -44816,7 +44816,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -44827,7 +44827,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -44838,7 +44838,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -44849,7 +44849,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -44860,7 +44860,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -44871,7 +44871,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -44882,7 +44882,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -44893,7 +44893,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -44904,7 +44904,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -44915,7 +44915,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -44926,7 +44926,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -44937,7 +44937,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -44948,7 +44948,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -44959,7 +44959,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -44970,7 +44970,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -44981,7 +44981,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -44992,7 +44992,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -45003,7 +45003,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -45014,7 +45014,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -45454,7 +45454,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -45465,7 +45465,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -45476,7 +45476,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -45487,7 +45487,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -45498,7 +45498,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -45509,7 +45509,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -45520,7 +45520,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -45531,7 +45531,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -45542,7 +45542,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -45553,7 +45553,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -45564,7 +45564,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -45575,7 +45575,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -45586,7 +45586,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -45597,7 +45597,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -45608,7 +45608,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -45619,7 +45619,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -45630,7 +45630,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -45641,7 +45641,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -45652,7 +45652,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -45663,7 +45663,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -46114,7 +46114,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -46125,7 +46125,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -46136,7 +46136,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -46147,7 +46147,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -46158,7 +46158,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -46169,7 +46169,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -46180,7 +46180,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -46191,7 +46191,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -46202,7 +46202,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -46213,7 +46213,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -46224,7 +46224,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -46235,7 +46235,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -46246,7 +46246,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -46257,7 +46257,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -46268,7 +46268,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -46279,7 +46279,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -46290,7 +46290,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -46301,7 +46301,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -46730,7 +46730,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -46741,7 +46741,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -46752,7 +46752,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -46763,7 +46763,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -46774,7 +46774,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -46785,7 +46785,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -46796,7 +46796,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -46807,7 +46807,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -46818,7 +46818,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -46829,7 +46829,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -46840,7 +46840,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -46851,7 +46851,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -46862,7 +46862,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -46873,7 +46873,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -46884,7 +46884,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -46895,7 +46895,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -46906,7 +46906,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -46917,7 +46917,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -46928,7 +46928,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -46939,7 +46939,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -46950,7 +46950,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -46961,7 +46961,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -46972,7 +46972,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -47412,7 +47412,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -47423,7 +47423,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -47434,7 +47434,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -47445,7 +47445,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -47456,7 +47456,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -47467,7 +47467,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -47478,7 +47478,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -47489,7 +47489,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -47500,7 +47500,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -47511,7 +47511,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -47522,7 +47522,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -47533,7 +47533,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -47544,7 +47544,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -47555,7 +47555,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -47566,7 +47566,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -47577,7 +47577,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -47588,7 +47588,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -47599,7 +47599,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -48039,7 +48039,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -48050,7 +48050,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -48061,7 +48061,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -48072,7 +48072,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -48083,7 +48083,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -48094,7 +48094,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -48105,7 +48105,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -48116,7 +48116,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -48127,7 +48127,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -48138,7 +48138,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -48149,7 +48149,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -48160,7 +48160,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -48171,7 +48171,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -48182,7 +48182,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -48193,7 +48193,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -48204,7 +48204,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -48215,7 +48215,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -48226,7 +48226,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -48237,7 +48237,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -48248,7 +48248,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -48666,7 +48666,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -48677,7 +48677,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -48688,7 +48688,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -48699,7 +48699,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -48710,7 +48710,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -48721,7 +48721,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -48732,7 +48732,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -48743,7 +48743,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -48754,7 +48754,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -48765,7 +48765,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -48776,7 +48776,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -48787,7 +48787,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -48798,7 +48798,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -48809,7 +48809,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -48820,7 +48820,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -48831,7 +48831,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -48842,7 +48842,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -48853,7 +48853,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -48864,7 +48864,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -48875,7 +48875,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -49293,7 +49293,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -49304,7 +49304,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -49315,7 +49315,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -49326,7 +49326,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -49337,7 +49337,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -49348,7 +49348,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -49359,7 +49359,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -49370,7 +49370,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -49381,7 +49381,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -49392,7 +49392,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -49403,7 +49403,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -49414,7 +49414,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -49425,7 +49425,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -49436,7 +49436,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -49447,7 +49447,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -49458,7 +49458,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -49469,7 +49469,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -49480,7 +49480,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -49491,7 +49491,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -49920,7 +49920,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -49931,7 +49931,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -49942,7 +49942,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -49953,7 +49953,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -49964,7 +49964,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -49975,7 +49975,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -49986,7 +49986,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -49997,7 +49997,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -50008,7 +50008,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -50019,7 +50019,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -50030,7 +50030,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -50041,7 +50041,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -50052,7 +50052,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -50063,7 +50063,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -50074,7 +50074,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -50085,7 +50085,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -50096,7 +50096,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -50107,7 +50107,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -50118,7 +50118,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -50129,7 +50129,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -50580,7 +50580,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -50591,7 +50591,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -50602,7 +50602,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -50613,7 +50613,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -50624,7 +50624,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -50635,7 +50635,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -50646,7 +50646,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -50657,7 +50657,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -50668,7 +50668,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -50679,7 +50679,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -50690,7 +50690,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -50701,7 +50701,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -50712,7 +50712,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -50723,7 +50723,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -50734,7 +50734,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -50745,7 +50745,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -50756,7 +50756,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -50767,7 +50767,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -51207,7 +51207,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -51218,7 +51218,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -51229,7 +51229,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -51240,7 +51240,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -51251,7 +51251,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -51262,7 +51262,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -51273,7 +51273,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -51284,7 +51284,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -51295,7 +51295,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -51306,7 +51306,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -51317,7 +51317,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -51328,7 +51328,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -51339,7 +51339,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -51350,7 +51350,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -51361,7 +51361,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -51372,7 +51372,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -51383,7 +51383,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -51394,7 +51394,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -51405,7 +51405,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -51416,7 +51416,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -51427,7 +51427,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -51438,7 +51438,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -51449,7 +51449,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -51889,7 +51889,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -51900,7 +51900,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -51911,7 +51911,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -51922,7 +51922,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -51933,7 +51933,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -51944,7 +51944,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -51955,7 +51955,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -51966,7 +51966,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -51977,7 +51977,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -51988,7 +51988,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -51999,7 +51999,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -52010,7 +52010,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -52021,7 +52021,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -52032,7 +52032,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -52043,7 +52043,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -52054,7 +52054,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -52065,7 +52065,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -52076,7 +52076,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -52505,7 +52505,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -52516,7 +52516,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -52527,7 +52527,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -52538,7 +52538,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -52549,7 +52549,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -52560,7 +52560,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -52571,7 +52571,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -52582,7 +52582,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -52593,7 +52593,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -52604,7 +52604,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -52615,7 +52615,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -52626,7 +52626,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -52637,7 +52637,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -52648,7 +52648,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -52659,7 +52659,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -52670,7 +52670,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -52681,7 +52681,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -52692,7 +52692,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -52703,7 +52703,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -52714,7 +52714,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -53132,7 +53132,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -53143,7 +53143,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -53154,7 +53154,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -53165,7 +53165,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -53176,7 +53176,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -53187,7 +53187,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -53198,7 +53198,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -53209,7 +53209,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -53220,7 +53220,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -53231,7 +53231,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -53242,7 +53242,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -53253,7 +53253,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -53264,7 +53264,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -53275,7 +53275,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -53286,7 +53286,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -53297,7 +53297,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -53308,7 +53308,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -53319,7 +53319,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -53330,7 +53330,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -53341,7 +53341,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -53759,7 +53759,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -53770,7 +53770,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -53781,7 +53781,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -53792,7 +53792,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -53803,7 +53803,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -53814,7 +53814,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -53825,7 +53825,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -53836,7 +53836,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -53847,7 +53847,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -53858,7 +53858,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -53869,7 +53869,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -53880,7 +53880,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -53891,7 +53891,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -53902,7 +53902,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -53913,7 +53913,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -53924,7 +53924,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -53935,7 +53935,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -53946,7 +53946,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -53957,7 +53957,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -54397,7 +54397,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -54408,7 +54408,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -54419,7 +54419,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -54430,7 +54430,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -54441,7 +54441,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -54452,7 +54452,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -54463,7 +54463,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -54474,7 +54474,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -54485,7 +54485,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -54496,7 +54496,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -54507,7 +54507,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -54518,7 +54518,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -54529,7 +54529,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -54540,7 +54540,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -54551,7 +54551,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -54562,7 +54562,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -54573,7 +54573,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -54584,7 +54584,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -54595,7 +54595,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -54606,7 +54606,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -55046,7 +55046,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -55057,7 +55057,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -55068,7 +55068,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -55079,7 +55079,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -55090,7 +55090,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -55101,7 +55101,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -55112,7 +55112,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -55123,7 +55123,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -55134,7 +55134,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -55145,7 +55145,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -55156,7 +55156,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -55167,7 +55167,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -55178,7 +55178,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -55189,7 +55189,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -55200,7 +55200,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -55211,7 +55211,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -55222,7 +55222,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -55233,7 +55233,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -55673,7 +55673,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -55684,7 +55684,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -55695,7 +55695,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -55706,7 +55706,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -55717,7 +55717,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -55728,7 +55728,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -55739,7 +55739,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -55750,7 +55750,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -55761,7 +55761,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -55772,7 +55772,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -55783,7 +55783,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -55794,7 +55794,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -55805,7 +55805,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -55816,7 +55816,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -55827,7 +55827,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -55838,7 +55838,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -55849,7 +55849,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -55860,7 +55860,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -55871,7 +55871,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -55882,7 +55882,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -55893,7 +55893,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -55904,7 +55904,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -55915,7 +55915,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -56355,7 +56355,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -56366,7 +56366,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -56377,7 +56377,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -56388,7 +56388,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -56399,7 +56399,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -56410,7 +56410,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -56421,7 +56421,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -56432,7 +56432,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -56443,7 +56443,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -56454,7 +56454,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -56465,7 +56465,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -56476,7 +56476,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -56487,7 +56487,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -56498,7 +56498,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -56509,7 +56509,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -56520,7 +56520,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -56531,7 +56531,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -56542,7 +56542,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -56960,7 +56960,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -56971,7 +56971,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -56982,7 +56982,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -56993,7 +56993,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -57004,7 +57004,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -57015,7 +57015,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -57026,7 +57026,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -57037,7 +57037,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -57048,7 +57048,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -57059,7 +57059,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -57070,7 +57070,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -57081,7 +57081,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -57092,7 +57092,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -57103,7 +57103,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -57114,7 +57114,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -57125,7 +57125,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -57136,7 +57136,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -57147,7 +57147,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -57158,7 +57158,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -57169,7 +57169,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -57576,7 +57576,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -57587,7 +57587,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -57598,7 +57598,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -57609,7 +57609,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -57620,7 +57620,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -57631,7 +57631,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -57642,7 +57642,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -57653,7 +57653,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -57664,7 +57664,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -57675,7 +57675,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -57686,7 +57686,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -57697,7 +57697,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -57708,7 +57708,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -57719,7 +57719,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -57730,7 +57730,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -57741,7 +57741,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -57752,7 +57752,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -57763,7 +57763,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -57774,7 +57774,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -57785,7 +57785,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -58192,7 +58192,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -58203,7 +58203,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -58214,7 +58214,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -58225,7 +58225,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -58236,7 +58236,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -58247,7 +58247,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -58258,7 +58258,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -58269,7 +58269,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -58280,7 +58280,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -58291,7 +58291,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -58302,7 +58302,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -58313,7 +58313,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -58324,7 +58324,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -58335,7 +58335,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -58346,7 +58346,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -58357,7 +58357,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -58368,7 +58368,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -58379,7 +58379,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -58390,7 +58390,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -58819,7 +58819,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -58830,7 +58830,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -58841,7 +58841,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -58852,7 +58852,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -58863,7 +58863,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -58874,7 +58874,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -58885,7 +58885,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -58896,7 +58896,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -58907,7 +58907,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -58918,7 +58918,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -58929,7 +58929,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -58940,7 +58940,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -58951,7 +58951,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -58962,7 +58962,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -58973,7 +58973,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -58984,7 +58984,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -58995,7 +58995,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -59006,7 +59006,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -59017,7 +59017,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -59028,7 +59028,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -59039,7 +59039,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -59479,7 +59479,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -59490,7 +59490,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -59501,7 +59501,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -59512,7 +59512,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -59523,7 +59523,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -59534,7 +59534,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -59545,7 +59545,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -59556,7 +59556,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -59567,7 +59567,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -59578,7 +59578,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -59589,7 +59589,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -59600,7 +59600,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -59611,7 +59611,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -59622,7 +59622,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -59633,7 +59633,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -59644,7 +59644,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -59655,7 +59655,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -59666,7 +59666,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -59677,7 +59677,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -60117,7 +60117,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -60128,7 +60128,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -60139,7 +60139,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -60150,7 +60150,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -60161,7 +60161,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -60172,7 +60172,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -60183,7 +60183,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -60194,7 +60194,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -60205,7 +60205,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -60216,7 +60216,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -60227,7 +60227,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -60238,7 +60238,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -60249,7 +60249,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -60260,7 +60260,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -60271,7 +60271,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -60282,7 +60282,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -60293,7 +60293,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -60304,7 +60304,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -60315,7 +60315,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -60326,7 +60326,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -60337,7 +60337,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -60348,7 +60348,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -60359,7 +60359,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -60370,7 +60370,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -60810,7 +60810,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -60821,7 +60821,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -60832,7 +60832,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -60843,7 +60843,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -60854,7 +60854,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -60865,7 +60865,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -60876,7 +60876,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -60887,7 +60887,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -60898,7 +60898,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -60909,7 +60909,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -60920,7 +60920,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -60931,7 +60931,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -60942,7 +60942,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -60953,7 +60953,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -60964,7 +60964,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -60975,7 +60975,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -60986,7 +60986,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -60997,7 +60997,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -61008,7 +61008,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -61437,7 +61437,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -61448,7 +61448,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -61459,7 +61459,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -61470,7 +61470,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -61481,7 +61481,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -61492,7 +61492,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -61503,7 +61503,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -61514,7 +61514,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -61525,7 +61525,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -61536,7 +61536,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -61547,7 +61547,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -61558,7 +61558,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -61569,7 +61569,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -61580,7 +61580,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -61591,7 +61591,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -61602,7 +61602,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -61613,7 +61613,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -61624,7 +61624,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -61635,7 +61635,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -61646,7 +61646,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -61657,7 +61657,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -62075,7 +62075,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -62086,7 +62086,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -62097,7 +62097,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -62108,7 +62108,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -62119,7 +62119,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -62130,7 +62130,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -62141,7 +62141,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -62152,7 +62152,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -62163,7 +62163,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -62174,7 +62174,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -62185,7 +62185,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -62196,7 +62196,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -62207,7 +62207,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -62218,7 +62218,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -62229,7 +62229,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -62240,7 +62240,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -62251,7 +62251,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -62262,7 +62262,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -62273,7 +62273,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -62284,7 +62284,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -62295,7 +62295,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -62713,7 +62713,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -62724,7 +62724,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -62735,7 +62735,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -62746,7 +62746,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -62757,7 +62757,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -62768,7 +62768,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -62779,7 +62779,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -62790,7 +62790,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -62801,7 +62801,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -62812,7 +62812,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -62823,7 +62823,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -62834,7 +62834,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -62845,7 +62845,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -62856,7 +62856,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -62867,7 +62867,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -62878,7 +62878,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -62889,7 +62889,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -62900,7 +62900,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -62911,7 +62911,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -62922,7 +62922,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -63362,7 +63362,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -63373,7 +63373,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -63384,7 +63384,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -63395,7 +63395,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -63406,7 +63406,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -63417,7 +63417,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -63428,7 +63428,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -63439,7 +63439,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -63450,7 +63450,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -63461,7 +63461,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -63472,7 +63472,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -63483,7 +63483,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -63494,7 +63494,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -63505,7 +63505,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -63516,7 +63516,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -63527,7 +63527,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -63538,7 +63538,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -63549,7 +63549,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -63560,7 +63560,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -63571,7 +63571,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -63582,7 +63582,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -64033,7 +64033,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -64044,7 +64044,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -64055,7 +64055,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -64066,7 +64066,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -64077,7 +64077,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -64088,7 +64088,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -64099,7 +64099,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -64110,7 +64110,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -64121,7 +64121,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -64132,7 +64132,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -64143,7 +64143,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -64154,7 +64154,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -64165,7 +64165,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -64176,7 +64176,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -64187,7 +64187,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -64198,7 +64198,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -64209,7 +64209,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -64220,7 +64220,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -64231,7 +64231,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -64671,7 +64671,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -64682,7 +64682,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -64693,7 +64693,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -64704,7 +64704,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -64715,7 +64715,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -64726,7 +64726,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -64737,7 +64737,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -64748,7 +64748,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -64759,7 +64759,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -64770,7 +64770,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -64781,7 +64781,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -64792,7 +64792,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -64803,7 +64803,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -64814,7 +64814,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -64825,7 +64825,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -64836,7 +64836,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -64847,7 +64847,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -64858,7 +64858,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -64869,7 +64869,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -64880,7 +64880,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -64891,7 +64891,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -64902,7 +64902,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -64913,7 +64913,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -64924,7 +64924,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -65375,7 +65375,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -65386,7 +65386,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -65397,7 +65397,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -65408,7 +65408,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -65419,7 +65419,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -65430,7 +65430,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -65441,7 +65441,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -65452,7 +65452,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -65463,7 +65463,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -65474,7 +65474,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -65485,7 +65485,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -65496,7 +65496,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -65507,7 +65507,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -65518,7 +65518,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -65529,7 +65529,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -65540,7 +65540,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -65551,7 +65551,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -65562,7 +65562,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -65573,7 +65573,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -66002,7 +66002,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -66013,7 +66013,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -66024,7 +66024,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -66035,7 +66035,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -66046,7 +66046,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -66057,7 +66057,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -66068,7 +66068,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -66079,7 +66079,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -66090,7 +66090,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -66101,7 +66101,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -66112,7 +66112,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -66123,7 +66123,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -66134,7 +66134,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -66145,7 +66145,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -66156,7 +66156,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -66167,7 +66167,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -66178,7 +66178,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -66189,7 +66189,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -66200,7 +66200,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -66211,7 +66211,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -66222,7 +66222,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -66640,7 +66640,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -66651,7 +66651,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -66662,7 +66662,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -66673,7 +66673,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -66684,7 +66684,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -66695,7 +66695,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -66706,7 +66706,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -66717,7 +66717,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -66728,7 +66728,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -66739,7 +66739,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -66750,7 +66750,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -66761,7 +66761,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -66772,7 +66772,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -66783,7 +66783,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -66794,7 +66794,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -66805,7 +66805,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -66816,7 +66816,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -66827,7 +66827,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -66838,7 +66838,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -66849,7 +66849,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -66860,7 +66860,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -67278,7 +67278,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -67289,7 +67289,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -67300,7 +67300,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "SQ255",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -67311,7 +67311,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "SQ672",
         "Airline": "Singapore Airlines",
         "Dest": "(NGO)",
@@ -67322,7 +67322,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "SQ618",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -67333,7 +67333,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -67344,7 +67344,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -67355,7 +67355,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -67366,7 +67366,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -67377,7 +67377,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -67388,7 +67388,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -67399,7 +67399,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ265",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -67410,7 +67410,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -67421,7 +67421,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -67432,7 +67432,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ632",
         "Airline": "Singapore Airlines",
         "Dest": "(HND)",
@@ -67443,7 +67443,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -67454,7 +67454,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ620",
         "Airline": "Singapore Airlines",
         "Dest": "(KIX)",
@@ -67465,7 +67465,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -67476,7 +67476,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -67487,7 +67487,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "SQ245",
         "Airline": "Singapore Airlines",
         "Dest": "(BNE)",
@@ -67927,7 +67927,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -67938,7 +67938,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -67949,7 +67949,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -67960,7 +67960,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -67971,7 +67971,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "145",
+        "Time": "0145",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -67982,7 +67982,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -67993,7 +67993,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -68004,7 +68004,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -68015,7 +68015,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -68026,7 +68026,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -68037,7 +68037,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -68048,7 +68048,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -68059,7 +68059,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ203",
         "Airline": "Singapore Airlines",
         "Dest": "(CNS)",
@@ -68070,7 +68070,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "840",
+        "Time": "0840",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -68081,7 +68081,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -68466,7 +68466,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -68477,7 +68477,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -68488,7 +68488,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -68499,7 +68499,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "CI756",
         "Airline": "China Airlines",
         "Dest": "(TPE)",
@@ -68510,7 +68510,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "225",
+        "Time": "0225",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -68521,7 +68521,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "245",
+        "Time": "0245",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -68532,7 +68532,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -68543,7 +68543,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -68554,7 +68554,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -68565,7 +68565,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -68576,7 +68576,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -68587,7 +68587,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -68928,7 +68928,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -68939,7 +68939,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -68950,7 +68950,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -68961,7 +68961,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -68972,7 +68972,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -68983,7 +68983,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -68994,7 +68994,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "QR945",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -69005,7 +69005,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -69016,7 +69016,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -69027,7 +69027,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -69038,7 +69038,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -69049,7 +69049,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -69060,7 +69060,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -69071,7 +69071,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -69082,7 +69082,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -69093,7 +69093,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -69104,7 +69104,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "855",
+        "Time": "0855",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -69115,7 +69115,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -69390,7 +69390,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ388",
         "Airline": "Singapore Airlines",
         "Dest": "(BCN)",
@@ -69401,7 +69401,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -69412,7 +69412,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -69423,7 +69423,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -69434,7 +69434,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -69445,7 +69445,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -69456,7 +69456,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -69467,7 +69467,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -69478,7 +69478,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -69489,7 +69489,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -69500,7 +69500,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -69511,7 +69511,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -69522,7 +69522,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -69533,7 +69533,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -69544,7 +69544,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -69830,7 +69830,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -69841,7 +69841,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -69852,7 +69852,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -69863,7 +69863,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -69874,7 +69874,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -69885,7 +69885,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -69896,7 +69896,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -69907,7 +69907,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "520",
+        "Time": "0520",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -69918,7 +69918,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -69929,7 +69929,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -69940,7 +69940,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -69951,7 +69951,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -69962,7 +69962,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -69973,7 +69973,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -69984,7 +69984,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -69995,7 +69995,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -70259,7 +70259,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -70270,7 +70270,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -70281,7 +70281,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -70292,7 +70292,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -70303,7 +70303,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -70314,7 +70314,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -70325,7 +70325,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -70336,7 +70336,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -70347,7 +70347,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -70358,7 +70358,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -70369,7 +70369,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -70380,7 +70380,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -70391,7 +70391,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -70402,7 +70402,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -70413,7 +70413,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -70699,7 +70699,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -70710,7 +70710,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -70721,7 +70721,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -70732,7 +70732,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -70743,7 +70743,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -70754,7 +70754,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -70765,7 +70765,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "520",
+        "Time": "0520",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -70776,7 +70776,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -70787,7 +70787,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -70798,7 +70798,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -70809,7 +70809,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -70820,7 +70820,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -70831,7 +70831,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -70842,7 +70842,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "855",
+        "Time": "0855",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -70853,7 +70853,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -71117,7 +71117,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ388",
         "Airline": "Singapore Airlines",
         "Dest": "(BCN)",
@@ -71128,7 +71128,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -71139,7 +71139,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -71150,7 +71150,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -71161,7 +71161,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -71172,7 +71172,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -71183,7 +71183,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -71194,7 +71194,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -71205,7 +71205,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -71216,7 +71216,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -71227,7 +71227,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -71238,7 +71238,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -71249,7 +71249,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -71260,7 +71260,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -71271,7 +71271,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -71282,7 +71282,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -71590,7 +71590,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -71601,7 +71601,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -71612,7 +71612,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -71623,7 +71623,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -71634,7 +71634,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -71645,7 +71645,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -71656,7 +71656,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -71667,7 +71667,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -71678,7 +71678,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -71689,7 +71689,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -71700,7 +71700,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -71711,7 +71711,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -71722,7 +71722,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -71733,7 +71733,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -72030,7 +72030,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -72041,7 +72041,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -72052,7 +72052,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -72063,7 +72063,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -72074,7 +72074,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -72085,7 +72085,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -72096,7 +72096,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -72107,7 +72107,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "520",
+        "Time": "0520",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -72118,7 +72118,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -72129,7 +72129,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -72140,7 +72140,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -72151,7 +72151,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -72162,7 +72162,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -72173,7 +72173,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -72184,7 +72184,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -72195,7 +72195,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -72206,7 +72206,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "855",
+        "Time": "0855",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -72217,7 +72217,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -72492,7 +72492,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ388",
         "Airline": "Singapore Airlines",
         "Dest": "(BCN)",
@@ -72503,7 +72503,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -72514,7 +72514,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -72525,7 +72525,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -72536,7 +72536,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -72547,7 +72547,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -72558,7 +72558,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -72569,7 +72569,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -72580,7 +72580,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -72591,7 +72591,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -72602,7 +72602,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -72613,7 +72613,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -72624,7 +72624,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -72635,7 +72635,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -72646,7 +72646,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -72932,7 +72932,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -72943,7 +72943,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -72954,7 +72954,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -72965,7 +72965,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -72976,7 +72976,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -72987,7 +72987,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -72998,7 +72998,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -73009,7 +73009,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "520",
+        "Time": "0520",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -73020,7 +73020,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -73031,7 +73031,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -73042,7 +73042,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -73053,7 +73053,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -73064,7 +73064,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -73075,7 +73075,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -73086,7 +73086,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -73097,7 +73097,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -73372,7 +73372,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -73383,7 +73383,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -73394,7 +73394,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -73405,7 +73405,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -73416,7 +73416,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -73427,7 +73427,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -73438,7 +73438,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -73449,7 +73449,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -73460,7 +73460,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -73471,7 +73471,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -73482,7 +73482,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -73493,7 +73493,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -73504,7 +73504,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -73515,7 +73515,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -73526,7 +73526,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -73812,7 +73812,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -73823,7 +73823,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -73834,7 +73834,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -73845,7 +73845,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -73856,7 +73856,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -73867,7 +73867,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -73878,7 +73878,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "520",
+        "Time": "0520",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -73889,7 +73889,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -73900,7 +73900,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -73911,7 +73911,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -73922,7 +73922,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -73933,7 +73933,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -73944,7 +73944,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -73955,7 +73955,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "855",
+        "Time": "0855",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -73966,7 +73966,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -74230,7 +74230,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ388",
         "Airline": "Singapore Airlines",
         "Dest": "(BCN)",
@@ -74241,7 +74241,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -74252,7 +74252,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -74263,7 +74263,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -74274,7 +74274,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -74285,7 +74285,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -74296,7 +74296,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -74307,7 +74307,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -74318,7 +74318,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -74329,7 +74329,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -74340,7 +74340,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -74351,7 +74351,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -74362,7 +74362,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -74373,7 +74373,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -74384,7 +74384,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -74395,7 +74395,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -74703,7 +74703,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -74714,7 +74714,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -74725,7 +74725,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -74736,7 +74736,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -74747,7 +74747,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -74758,7 +74758,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -74769,7 +74769,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -74780,7 +74780,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -74791,7 +74791,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -74802,7 +74802,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -74813,7 +74813,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -74824,7 +74824,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -74835,7 +74835,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -74846,7 +74846,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -75143,7 +75143,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -75154,7 +75154,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -75165,7 +75165,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -75176,7 +75176,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -75187,7 +75187,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -75198,7 +75198,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -75209,7 +75209,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -75220,7 +75220,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "520",
+        "Time": "0520",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -75231,7 +75231,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -75242,7 +75242,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -75253,7 +75253,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -75264,7 +75264,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -75275,7 +75275,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -75286,7 +75286,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -75297,7 +75297,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -75308,7 +75308,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -75319,7 +75319,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "855",
+        "Time": "0855",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -75330,7 +75330,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -75605,7 +75605,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ388",
         "Airline": "Singapore Airlines",
         "Dest": "(BCN)",
@@ -75616,7 +75616,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -75627,7 +75627,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -75638,7 +75638,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -75649,7 +75649,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -75660,7 +75660,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -75671,7 +75671,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -75682,7 +75682,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -75693,7 +75693,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -75704,7 +75704,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -75715,7 +75715,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -75726,7 +75726,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -75737,7 +75737,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -75748,7 +75748,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -75759,7 +75759,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -76045,7 +76045,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -76056,7 +76056,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -76067,7 +76067,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -76078,7 +76078,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -76089,7 +76089,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -76100,7 +76100,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -76111,7 +76111,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -76122,7 +76122,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "520",
+        "Time": "0520",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -76133,7 +76133,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -76144,7 +76144,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -76155,7 +76155,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -76166,7 +76166,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -76177,7 +76177,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -76188,7 +76188,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -76199,7 +76199,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -76210,7 +76210,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -76485,7 +76485,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -76496,7 +76496,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -76507,7 +76507,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -76518,7 +76518,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -76529,7 +76529,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -76540,7 +76540,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -76551,7 +76551,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -76562,7 +76562,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -76573,7 +76573,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -76584,7 +76584,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -76595,7 +76595,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -76606,7 +76606,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -76617,7 +76617,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -76628,7 +76628,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -76639,7 +76639,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -76925,7 +76925,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -76936,7 +76936,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -76947,7 +76947,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -76958,7 +76958,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -76969,7 +76969,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -76980,7 +76980,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -76991,7 +76991,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "520",
+        "Time": "0520",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -77002,7 +77002,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -77013,7 +77013,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -77024,7 +77024,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -77035,7 +77035,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -77046,7 +77046,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -77057,7 +77057,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -77068,7 +77068,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "855",
+        "Time": "0855",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -77079,7 +77079,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -77343,7 +77343,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ388",
         "Airline": "Singapore Airlines",
         "Dest": "(BCN)",
@@ -77354,7 +77354,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -77365,7 +77365,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -77376,7 +77376,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -77387,7 +77387,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -77398,7 +77398,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -77409,7 +77409,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -77420,7 +77420,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -77431,7 +77431,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -77442,7 +77442,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -77453,7 +77453,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -77464,7 +77464,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -77475,7 +77475,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -77486,7 +77486,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -77497,7 +77497,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -77508,7 +77508,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -77816,7 +77816,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -77827,7 +77827,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -77838,7 +77838,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -77849,7 +77849,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -77860,7 +77860,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -77871,7 +77871,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -77882,7 +77882,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -77893,7 +77893,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -77904,7 +77904,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -77915,7 +77915,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -77926,7 +77926,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -77937,7 +77937,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -77948,7 +77948,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -77959,7 +77959,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -78256,7 +78256,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -78267,7 +78267,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -78278,7 +78278,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -78289,7 +78289,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -78300,7 +78300,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -78311,7 +78311,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -78322,7 +78322,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -78333,7 +78333,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "520",
+        "Time": "0520",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -78344,7 +78344,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -78355,7 +78355,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -78366,7 +78366,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -78377,7 +78377,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -78388,7 +78388,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -78399,7 +78399,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -78410,7 +78410,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -78421,7 +78421,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -78432,7 +78432,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "855",
+        "Time": "0855",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -78443,7 +78443,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -78718,7 +78718,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ388",
         "Airline": "Singapore Airlines",
         "Dest": "(BCN)",
@@ -78729,7 +78729,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -78740,7 +78740,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -78751,7 +78751,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -78762,7 +78762,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -78773,7 +78773,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -78784,7 +78784,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -78795,7 +78795,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -78806,7 +78806,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -78817,7 +78817,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -78828,7 +78828,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -78839,7 +78839,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -78850,7 +78850,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -78861,7 +78861,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -78872,7 +78872,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -79158,7 +79158,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -79169,7 +79169,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -79180,7 +79180,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -79191,7 +79191,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -79202,7 +79202,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -79213,7 +79213,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -79224,7 +79224,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -79235,7 +79235,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "520",
+        "Time": "0520",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -79246,7 +79246,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -79257,7 +79257,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -79268,7 +79268,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -79279,7 +79279,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -79290,7 +79290,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -79301,7 +79301,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -79312,7 +79312,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -79323,7 +79323,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -79598,7 +79598,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -79609,7 +79609,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -79620,7 +79620,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -79631,7 +79631,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -79642,7 +79642,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -79653,7 +79653,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -79664,7 +79664,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -79675,7 +79675,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -79686,7 +79686,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -79697,7 +79697,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -79708,7 +79708,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -79719,7 +79719,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -79730,7 +79730,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -79741,7 +79741,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -79752,7 +79752,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -80038,7 +80038,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -80049,7 +80049,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -80060,7 +80060,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -80071,7 +80071,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -80082,7 +80082,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -80093,7 +80093,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -80104,7 +80104,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "520",
+        "Time": "0520",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -80115,7 +80115,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -80126,7 +80126,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -80137,7 +80137,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -80148,7 +80148,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -80159,7 +80159,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -80170,7 +80170,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -80181,7 +80181,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "855",
+        "Time": "0855",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -80192,7 +80192,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -80456,7 +80456,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ388",
         "Airline": "Singapore Airlines",
         "Dest": "(BCN)",
@@ -80467,7 +80467,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -80478,7 +80478,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -80489,7 +80489,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -80500,7 +80500,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -80511,7 +80511,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -80522,7 +80522,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -80533,7 +80533,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -80544,7 +80544,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -80555,7 +80555,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -80566,7 +80566,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -80577,7 +80577,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -80588,7 +80588,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -80599,7 +80599,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -80610,7 +80610,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -80621,7 +80621,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -80632,7 +80632,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -80643,7 +80643,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "850",
+        "Time": "0850",
         "Flight": "SQ295",
         "Airline": "Singapore Airlines",
         "Dest": "(CHC)",
@@ -80951,7 +80951,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -80962,7 +80962,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -80973,7 +80973,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -80984,7 +80984,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -80995,7 +80995,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -81006,7 +81006,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -81017,7 +81017,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -81028,7 +81028,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -81039,7 +81039,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -81050,7 +81050,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -81061,7 +81061,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -81072,7 +81072,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -81083,7 +81083,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -81094,7 +81094,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -81391,7 +81391,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -81402,7 +81402,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -81413,7 +81413,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -81424,7 +81424,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -81435,7 +81435,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -81446,7 +81446,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -81457,7 +81457,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -81468,7 +81468,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "520",
+        "Time": "0520",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -81479,7 +81479,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -81490,7 +81490,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -81501,7 +81501,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -81512,7 +81512,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -81523,7 +81523,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -81534,7 +81534,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -81545,7 +81545,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -81556,7 +81556,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -81567,7 +81567,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "855",
+        "Time": "0855",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -81578,7 +81578,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -81853,7 +81853,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ388",
         "Airline": "Singapore Airlines",
         "Dest": "(BCN)",
@@ -81864,7 +81864,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -81875,7 +81875,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -81886,7 +81886,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -81897,7 +81897,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -81908,7 +81908,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -81919,7 +81919,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -81930,7 +81930,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -81941,7 +81941,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -81952,7 +81952,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -81963,7 +81963,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -81974,7 +81974,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -81985,7 +81985,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -81996,7 +81996,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -82007,7 +82007,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -82018,7 +82018,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "850",
+        "Time": "0850",
         "Flight": "SQ295",
         "Airline": "Singapore Airlines",
         "Dest": "(CHC)",
@@ -82304,7 +82304,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -82315,7 +82315,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -82326,7 +82326,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -82337,7 +82337,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -82348,7 +82348,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -82359,7 +82359,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -82370,7 +82370,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -82381,7 +82381,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "520",
+        "Time": "0520",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -82392,7 +82392,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -82403,7 +82403,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -82414,7 +82414,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -82425,7 +82425,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -82436,7 +82436,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -82447,7 +82447,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -82458,7 +82458,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -82469,7 +82469,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -82744,7 +82744,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -82755,7 +82755,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -82766,7 +82766,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -82777,7 +82777,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -82788,7 +82788,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -82799,7 +82799,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -82810,7 +82810,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -82821,7 +82821,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -82832,7 +82832,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -82843,7 +82843,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -82854,7 +82854,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -82865,7 +82865,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -82876,7 +82876,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -82887,7 +82887,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -82898,7 +82898,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -82909,7 +82909,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -82920,7 +82920,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "850",
+        "Time": "0850",
         "Flight": "SQ295",
         "Airline": "Singapore Airlines",
         "Dest": "(CHC)",
@@ -83206,7 +83206,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -83217,7 +83217,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -83228,7 +83228,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -83239,7 +83239,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -83250,7 +83250,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -83261,7 +83261,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -83272,7 +83272,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "520",
+        "Time": "0520",
         "Flight": "TK169",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -83283,7 +83283,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -83294,7 +83294,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -83305,7 +83305,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -83316,7 +83316,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -83327,7 +83327,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -83338,7 +83338,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -83349,7 +83349,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "855",
+        "Time": "0855",
         "Flight": "SQ508",
         "Airline": "Singapore Airlines",
         "Dest": "(BLR)",
@@ -83360,7 +83360,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
@@ -83624,7 +83624,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "5",
+        "Time": "0005",
         "Flight": "SQ388",
         "Airline": "Singapore Airlines",
         "Dest": "(BCN)",
@@ -83635,7 +83635,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -83646,7 +83646,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -83657,7 +83657,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -83668,7 +83668,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -83679,7 +83679,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "SQ392",
         "Airline": "Singapore Airlines",
         "Dest": "(IST)",
@@ -83690,7 +83690,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "SQ366",
         "Airline": "Singapore Airlines",
         "Dest": "(FCO)",
@@ -83701,7 +83701,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -83712,7 +83712,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -83723,7 +83723,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -83734,7 +83734,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "SQ524",
         "Airline": "Singapore Airlines",
         "Dest": "(MAA)",
@@ -83745,7 +83745,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -83756,7 +83756,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -83767,7 +83767,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -83778,7 +83778,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -83789,7 +83789,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -83800,7 +83800,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -83811,7 +83811,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "850",
+        "Time": "0850",
         "Flight": "SQ295",
         "Airline": "Singapore Airlines",
         "Dest": "(CHC)",
@@ -84119,7 +84119,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ287",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -84130,7 +84130,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ352",
         "Airline": "Singapore Airlines",
         "Dest": "(CPH)",
@@ -84141,7 +84141,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "25",
+        "Time": "0025",
         "Flight": "SQ328",
         "Airline": "Singapore Airlines",
         "Dest": "(MUC)",
@@ -84152,7 +84152,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "SQ478",
         "Airline": "Singapore Airlines",
         "Dest": "(JNB)",
@@ -84163,7 +84163,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "210",
+        "Time": "0210",
         "Flight": "SQ52",
         "Airline": "Singapore Airlines",
         "Dest": "(MAN)",
@@ -84174,7 +84174,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "355",
+        "Time": "0355",
         "Flight": "CZ8490",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -84185,7 +84185,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "640",
+        "Time": "0640",
         "Flight": "NH802",
         "Airline": "ANA",
         "Dest": "(NRT)",
@@ -84196,7 +84196,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "SQ241",
         "Airline": "Singapore Airlines",
         "Dest": "(SYD)",
@@ -84207,7 +84207,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "745",
+        "Time": "0745",
         "Flight": "SQ207",
         "Airline": "Singapore Airlines",
         "Dest": "(MEL)",
@@ -84218,7 +84218,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "SQ518",
         "Airline": "Singapore Airlines",
         "Dest": "(HYD)",
@@ -84229,7 +84229,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "SQ251",
         "Airline": "Singapore Airlines",
         "Dest": "(DRW)",
@@ -84240,7 +84240,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "SQ281",
         "Airline": "Singapore Airlines",
         "Dest": "(AKL)",
@@ -84251,7 +84251,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "845",
+        "Time": "0845",
         "Flight": "CZ352",
         "Airline": "China Southern Airlines",
         "Dest": "(CAN)",
@@ -84262,7 +84262,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "SQ28",
         "Airline": "Singapore Airlines",
         "Dest": "(SEA)",
