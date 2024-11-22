@@ -9,3 +9,5 @@ git commit -m "update files"
 git push --all
 
 cd ..
+
+pause
