@@ -47122,7 +47122,9 @@
 
 
 
- {
+ 
+
+     {
         "Airport_Airline": "ADD - ET",
         "Quota": 4,
         "Year": "2025",
@@ -47178,7 +47180,7 @@
     },
     {
         "Airport_Airline": "AUH - EY",
-        "Quota": 10,
+        "Quota": 11,
         "Year": "2025",
         "Month": "07"
     },
@@ -47220,13 +47222,13 @@
     },
     {
         "Airport_Airline": "BKK - TG",
-        "Quota": 33,
+        "Quota": 34,
         "Year": "2025",
         "Month": "07"
     },
     {
         "Airport_Airline": "BKK - TR",
-        "Quota": 35,
+        "Quota": 34,
         "Year": "2025",
         "Month": "07"
     },
@@ -47238,7 +47240,7 @@
     },
     {
         "Airport_Airline": "BLR - AI",
-        "Quota": 3,
+        "Quota": 2,
         "Year": "2025",
         "Month": "07"
     },
@@ -47274,13 +47276,13 @@
     },
     {
         "Airport_Airline": "BOM - SQ",
-        "Quota": 16,
+        "Quota": 17,
         "Year": "2025",
         "Month": "07"
     },
     {
         "Airport_Airline": "BPN - TR",
-        "Quota": 1,
+        "Quota": 2,
         "Year": "2025",
         "Month": "07"
     },
@@ -47370,19 +47372,13 @@
     },
     {
         "Airport_Airline": "CGK - GA",
-        "Quota": 26,
+        "Quota": 25,
         "Year": "2025",
         "Month": "07"
     },
     {
         "Airport_Airline": "CGK - ID",
         "Quota": 17,
-        "Year": "2025",
-        "Month": "07"
-    },
-    {
-        "Airport_Airline": "CGK - IP",
-        "Quota": 1,
         "Year": "2025",
         "Month": "07"
     },
@@ -47417,12 +47413,6 @@
         "Month": "07"
     },
     {
-        "Airport_Airline": "CGQ - GJ",
-        "Quota": 0,
-        "Year": "2025",
-        "Month": "07"
-    },
-    {
         "Airport_Airline": "CHC - SQ",
         "Quota": 5,
         "Year": "2025",
@@ -47443,12 +47433,6 @@
     {
         "Airport_Airline": "CJU - TR",
         "Quota": 4,
-        "Year": "2025",
-        "Month": "07"
-    },
-    {
-        "Airport_Airline": "CJU - TW",
-        "Quota": 0,
         "Year": "2025",
         "Month": "07"
     },
@@ -47496,7 +47480,7 @@
     },
     {
         "Airport_Airline": "COK - SQ",
-        "Quota": 4,
+        "Quota": 5,
         "Year": "2025",
         "Month": "07"
     },
@@ -47550,7 +47534,7 @@
     },
     {
         "Airport_Airline": "DAC - BS",
-        "Quota": 5,
+        "Quota": 6,
         "Year": "2025",
         "Month": "07"
     },
@@ -47562,7 +47546,7 @@
     },
     {
         "Airport_Airline": "DAD - SQ",
-        "Quota": 4,
+        "Quota": 3,
         "Year": "2025",
         "Month": "07"
     },
@@ -47616,7 +47600,7 @@
     },
     {
         "Airport_Airline": "DPS - GA",
-        "Quota": 3,
+        "Quota": 4,
         "Year": "2025",
         "Month": "07"
     },
@@ -47634,7 +47618,7 @@
     },
     {
         "Airport_Airline": "DPS - QZ",
-        "Quota": 11,
+        "Quota": 12,
         "Year": "2025",
         "Month": "07"
     },
@@ -47652,7 +47636,7 @@
     },
     {
         "Airport_Airline": "DPS - TR",
-        "Quota": 23,
+        "Quota": 24,
         "Year": "2025",
         "Month": "07"
     },
@@ -47760,7 +47744,7 @@
     },
     {
         "Airport_Airline": "HAN - VN",
-        "Quota": 6,
+        "Quota": 7,
         "Year": "2025",
         "Month": "07"
     },
@@ -47802,7 +47786,7 @@
     },
     {
         "Airport_Airline": "HKG - CX",
-        "Quota": 49,
+        "Quota": 47,
         "Year": "2025",
         "Month": "07"
     },
@@ -47814,7 +47798,7 @@
     },
     {
         "Airport_Airline": "HKG - TR",
-        "Quota": 7,
+        "Quota": 6,
         "Year": "2025",
         "Month": "07"
     },
@@ -47832,7 +47816,7 @@
     },
     {
         "Airport_Airline": "HND - JL",
-        "Quota": 9,
+        "Quota": 10,
         "Year": "2025",
         "Month": "07"
     },
@@ -47868,13 +47852,13 @@
     },
     {
         "Airport_Airline": "ICN - 7C",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "07"
     },
     {
         "Airport_Airline": "ICN - KE",
-        "Quota": 18,
+        "Quota": 19,
         "Year": "2025",
         "Month": "07"
     },
@@ -47915,12 +47899,6 @@
         "Month": "07"
     },
     {
-        "Airport_Airline": "IPH - OD",
-        "Quota": 1,
-        "Year": "2025",
-        "Month": "07"
-    },
-    {
         "Airport_Airline": "IPH - TR",
         "Quota": 9,
         "Year": "2025",
@@ -47940,7 +47918,7 @@
     },
     {
         "Airport_Airline": "JED - SV",
-        "Quota": 3,
+        "Quota": 4,
         "Year": "2025",
         "Month": "07"
     },
@@ -47988,7 +47966,7 @@
     },
     {
         "Airport_Airline": "KHH - CI",
-        "Quota": 1,
+        "Quota": 2,
         "Year": "2025",
         "Month": "07"
     },
@@ -48012,7 +47990,7 @@
     },
     {
         "Airport_Airline": "KIX - TR",
-        "Quota": 6,
+        "Quota": 5,
         "Year": "2025",
         "Month": "07"
     },
@@ -48036,7 +48014,7 @@
     },
     {
         "Airport_Airline": "KNO - ID",
-        "Quota": 3,
+        "Quota": 4,
         "Year": "2025",
         "Month": "07"
     },
@@ -48048,7 +48026,7 @@
     },
     {
         "Airport_Airline": "KTM - SQ",
-        "Quota": 3,
+        "Quota": 4,
         "Year": "2025",
         "Month": "07"
     },
@@ -48102,7 +48080,7 @@
     },
     {
         "Airport_Airline": "LAX - SQ",
-        "Quota": 13,
+        "Quota": 14,
         "Year": "2025",
         "Month": "07"
     },
@@ -48132,7 +48110,7 @@
     },
     {
         "Airport_Airline": "LHR - QF",
-        "Quota": 10,
+        "Quota": 11,
         "Year": "2025",
         "Month": "07"
     },
@@ -48180,7 +48158,7 @@
     },
     {
         "Airport_Airline": "MAA - SQ",
-        "Quota": 11,
+        "Quota": 12,
         "Year": "2025",
         "Month": "07"
     },
@@ -48270,7 +48248,7 @@
     },
     {
         "Airport_Airline": "MNL - SQ",
-        "Quota": 29,
+        "Quota": 28,
         "Year": "2025",
         "Month": "07"
     },
@@ -48282,7 +48260,7 @@
     },
     {
         "Airport_Airline": "MUC - LH",
-        "Quota": 5,
+        "Quota": 6,
         "Year": "2025",
         "Month": "07"
     },
@@ -48312,7 +48290,7 @@
     },
     {
         "Airport_Airline": "NGB - MU",
-        "Quota": 1,
+        "Quota": 2,
         "Year": "2025",
         "Month": "07"
     },
@@ -48396,19 +48374,13 @@
     },
     {
         "Airport_Airline": "PEK - SQ",
-        "Quota": 19,
+        "Quota": 18,
         "Year": "2025",
         "Month": "07"
     },
     {
         "Airport_Airline": "PEN - AK",
-        "Quota": 12,
-        "Year": "2025",
-        "Month": "07"
-    },
-    {
-        "Airport_Airline": "PEN - OD",
-        "Quota": 1,
+        "Quota": 11,
         "Year": "2025",
         "Month": "07"
     },
@@ -48456,7 +48428,7 @@
     },
     {
         "Airport_Airline": "PKX - MU",
-        "Quota": 6,
+        "Quota": 5,
         "Year": "2025",
         "Month": "07"
     },
@@ -48480,13 +48452,13 @@
     },
     {
         "Airport_Airline": "PNH - SQ",
-        "Quota": 12,
+        "Quota": 11,
         "Year": "2025",
         "Month": "07"
     },
     {
         "Airport_Airline": "PNQ - AI",
-        "Quota": 3,
+        "Quota": 2,
         "Year": "2025",
         "Month": "07"
     },
@@ -48534,7 +48506,7 @@
     },
     {
         "Airport_Airline": "PVG - HO",
-        "Quota": 11,
+        "Quota": 10,
         "Year": "2025",
         "Month": "07"
     },
@@ -48570,7 +48542,7 @@
     },
     {
         "Airport_Airline": "SAI - SQ",
-        "Quota": 3,
+        "Quota": 4,
         "Year": "2025",
         "Month": "07"
     },
@@ -48630,7 +48602,7 @@
     },
     {
         "Airport_Airline": "SUB - GA",
-        "Quota": 3,
+        "Quota": 4,
         "Year": "2025",
         "Month": "07"
     },
@@ -48666,7 +48638,7 @@
     },
     {
         "Airport_Airline": "SYD - SQ",
-        "Quota": 31,
+        "Quota": 32,
         "Year": "2025",
         "Month": "07"
     },
@@ -48774,13 +48746,13 @@
     },
     {
         "Airport_Airline": "TRZ - IX",
-        "Quota": 8,
+        "Quota": 7,
         "Year": "2025",
         "Month": "07"
     },
     {
         "Airport_Airline": "TRZ - TR",
-        "Quota": 9,
+        "Quota": 8,
         "Year": "2025",
         "Month": "07"
     },
@@ -48858,7 +48830,7 @@
     },
     {
         "Airport_Airline": "XMN - MF",
-        "Quota": 13,
+        "Quota": 14,
         "Year": "2025",
         "Month": "07"
     },
