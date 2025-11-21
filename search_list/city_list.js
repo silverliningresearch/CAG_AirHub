@@ -50441,7 +50441,5 @@ let cityRawList = `
   {"co": "Zimbabwe", "city": "Chitungwiza"}, 
   {"co": "Indonesia", "city": "Bintan"}, 
   {"co": "Malaysia", "city": "Desaru"} 
-
 ]
-     
 `;
