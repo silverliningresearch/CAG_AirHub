@@ -88,7 +88,10 @@ function load_city_list() {
       break;                                       
     case "E8":
       country = "_all"; 
-      break;                   
+      break;      
+    case "G3_City":
+      country = "_all"; 
+      break;                      
     default:
       country = "_all";
       break;         
@@ -234,7 +237,10 @@ function select_city() {
     case "E8":
       api.fn.answers({E8_ext:  savedData});
       api.fn.answers({E8:  savedData});
-      break;             
+      break;      
+    case "G3_City":
+      api.fn.answers({G3_City:  savedData});
+      break;                
     default:
       break;         
   }
