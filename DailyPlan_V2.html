@@ -105,8 +105,8 @@
       try {
         console.log('Loading script:', interviewStatsUrl); // Keep console log
         // alert('Debug: Attempting to load script:\n' + interviewStatsUrl); // Uncomment for debugging if needed
-        await loadScript(interviewStatsUrl);
-        await loadScript(quotaDataUrl);
+        await fetchAndEval(interviewStatsUrl);
+        await fetchAndEval(quotaDataUrl);
         // await loadScript(invalidCasesUrl);
         console.log('Remote data scripts loaded successfully');
       } catch (error) {
